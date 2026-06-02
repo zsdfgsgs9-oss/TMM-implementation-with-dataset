@@ -1,0 +1,22 @@
+# MATLAB figure 文件 (不上传)
+*.fig
+
+# 导出图片目录
+exported_figs/
+
+# MATLAB 生成文件
+*.mat
+*.log
+*.asv
+*.bak
+
+# 实验文件
+99.csv
+991.csv
+
+# 旧实验数据
+旧实验数据/
+
+# 旧导出图片
+*.eps
+*.svg
