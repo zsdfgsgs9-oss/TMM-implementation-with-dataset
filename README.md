@@ -33,9 +33,8 @@ Each function computes a 3×3×N transfer matrix for a specific physical effect:
 - `ee_calculation_exact.m` — Exact space charge integral calculation
 
 ### Data Files
-- `*粒子初始状态.csv` — COMSOL-exported initial particle states
-- `*焦面图像.csv` — COMSOL-exported target plane images
-- `*.fig` — MATLAB figure files for paper
+- `*_initial.csv` — COMSOL-exported initial particle states (e.g., `01_intrinsic_error_initial.csv`)
+- `*_image.csv` — COMSOL-exported target plane images (e.g., `01_intrinsic_error_image.csv`)
 
 ## Usage
 
@@ -56,4 +55,4 @@ export_figs_final
 - Curve Fitting Toolbox (optional, for `fit`)
 
 ## Reference
-See `电子束聚焦公式推导（新）.docx` for the complete physics derivation.
+See `electron_beam_focusing_derivation.docx` for the complete physics derivation.
