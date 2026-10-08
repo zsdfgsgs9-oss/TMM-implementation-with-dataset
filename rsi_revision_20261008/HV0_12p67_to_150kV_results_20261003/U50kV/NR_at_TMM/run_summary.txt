@@ -1,0 +1,11 @@
+status=success
+U_kV=50
+mode=NR
+z_relative_um=998.6374272440059
+z_absolute_um=998.6384272440059
+started=2026-10-02 20:10:37
+ended=2026-10-02 20:25:12
+solve_seconds=700.2289
+export_seconds=174.194318
+total_seconds=874.495564
+particle_count=50000

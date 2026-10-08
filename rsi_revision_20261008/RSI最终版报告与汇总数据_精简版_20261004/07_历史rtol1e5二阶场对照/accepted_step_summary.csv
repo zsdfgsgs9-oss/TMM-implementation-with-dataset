@@ -1,0 +1,5 @@
+case_name,accepted_steps,final_time_s,min_accepted_step_s,max_accepted_step_s,solve_seconds
+H0_control,10000,4e-11,4e-15,4e-15,1207.31534
+H0p5,10000,4e-11,4e-15,4e-15,1232.59065
+H1,10000,4e-11,4e-15,4e-15,1239.8088
+H2,10000,4e-11,4e-15,4e-15,1234.58185

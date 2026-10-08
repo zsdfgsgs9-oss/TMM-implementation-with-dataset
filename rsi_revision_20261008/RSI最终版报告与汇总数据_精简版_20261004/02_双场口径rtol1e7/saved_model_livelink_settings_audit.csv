@@ -1,0 +1,9 @@
+field_reference,case_name,rtol,timemethod,tstepsgenalpha,maxstepconstraintgenalpha,maxstepgenalpha,rhoinf,atolglobal,atolglobalmethod,atolglobalvaluemethod,atolglobalfactor,ewtrescale,study_usertol,study_rtol,relativistic_correction,new_solves
+entrance,H0_control,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+entrance,H0p5,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+entrance,H1,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+entrance,H2,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+midpoint,H0_control,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+midpoint,H0p5,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+midpoint,H1,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0
+midpoint,H2,1e-7,genalpha,free,const,4e-15,1,0.001,scaled,factor,0.1,on,on,1e-7,0,0

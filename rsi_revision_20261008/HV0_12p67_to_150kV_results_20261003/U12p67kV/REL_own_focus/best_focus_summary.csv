@@ -1,0 +1,2 @@
+z_relative_um,z_absolute_um,N,cx_nm,cy_nm,rms_nm,FW50_nm,FW90_nm,FW99_nm,source_file,bracketed_by_direct_planes,same_initial_as_shared_plane,selection_method
+1001.25,1001.251,50000,-0.00145159315890822,-0.00509999943916117,12.7458042135244,25.3846729062388,34.2237745053323,37.4353086248841,E:\Comsol Models\MATLAB CODE\transfer_matrix_test\revision_comsol\hv0_tmm_common_plane_20261002\U12p67kV\REL_own_focus_same_initial\poincare_zrel_1001.250um.csv,1,1,"direct 0.5 um scan, 0.25 um refinement"

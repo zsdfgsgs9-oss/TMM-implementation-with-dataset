@@ -1,0 +1,4425 @@
+{
+  "scope": "Every publication file except this self-referential manifest and transient __pycache__ files.",
+  "files": [
+    {
+      "path": "data_provenance.json",
+      "bytes": 159151,
+      "sha256": "47e109c85cb23b28bd2f52ceec495f478e42796be6e0dc7b8967cc0b29e682f0",
+      "roles": [
+        "generated_metadata"
+      ],
+      "groups": [
+        "publication_metadata"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/image_particles.csv",
+      "bytes": 2477931,
+      "sha256": "6e0e7da4e2ddc1e4155c0a0466bc45462b15764cd2a61fb1c22706114de3b300",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/initial_particles.csv",
+      "bytes": 6405672,
+      "sha256": "533dea5527cce7611c913fed08815ecc443ff06204a2ab462a0cb08a42c97a53",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/run_summary.txt",
+      "bytes": 221,
+      "sha256": "b46c0c62b38b74890e76fd4cfe847827d3da8fa23feeaed163e5be262e4079b8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/settings_after.txt",
+      "bytes": 923,
+      "sha256": "60201697169e48ec73909f162a7de99de80120573a25f7228e09d774b8679e7d",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/settings_before.txt",
+      "bytes": 923,
+      "sha256": "7c291cb506236decaa14520519cddb254b53d4155c17352a188d60e3410c786e",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/11_center/solver.log",
+      "bytes": 103,
+      "sha256": "1bbef4d43f0b41862280df6c2d3faea90daedd9a27f5c8233a1b3aa3c4ac3aa1",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/image_particles.csv",
+      "bytes": 2477691,
+      "sha256": "6200aa36fd9e47d7fba6bd9ec5de9940d7e3060e60868cb4fb4a9b7844bea635",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/initial_particles.csv",
+      "bytes": 6405672,
+      "sha256": "533dea5527cce7611c913fed08815ecc443ff06204a2ab462a0cb08a42c97a53",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/run_summary.txt",
+      "bytes": 230,
+      "sha256": "676d3846720ffe6a198a1694663dd0d775f1bbde616ce52ce8bab904a11f72d5",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/settings_after.txt",
+      "bytes": 940,
+      "sha256": "91a6492f1d0343548725ec7a800256ba3b6863caf9b972de4df4f7108635ba06",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/settings_before.txt",
+      "bytes": 940,
+      "sha256": "7bc2be4d3f4a3fe839d80baba459d6664eb6c53f4cb8123509c2b57557742c23",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/13_axis_minus_1um/solver.log",
+      "bytes": 119,
+      "sha256": "44d6024c274fc389689bf5f22ec52d4c8ee2781ec0971501e5a6af4c10b48e52",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/inputs/11_system_stripe_center_initial.csv",
+      "bytes": 6345521,
+      "sha256": "5a739f1133ee97166254a894aa2536b6b273431c70ec5065d413227371a33c0b",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "Fig10最小工况重跑结果_20261002/inputs/13_system_stripe_1um_initial.csv",
+      "bytes": 6345521,
+      "sha256": "619ea3949392a7569e1f29c7f58b84111252dfcc44c94b4a397590bcb295ecfa",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "figures/fig2_1_signed.pdf",
+      "bytes": 51823,
+      "sha256": "881f613646252b5880f62d49a2a2f86cc6f086a4714ec3c69374043e9474384a",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig3_1_signed.pdf",
+      "bytes": 81697,
+      "sha256": "5b9acf5dbcdb4458ec9136365c422b1bf9d84ef50b1563f0079e15cc690674ab",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_mesh_sensitivity_reviewer7.pdf",
+      "bytes": 38782,
+      "sha256": "14e70e6cfaf81f70cd912d1d7b9ef7bd52770f40b13a3404cae201f3cad0cb3d",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_particle_count_reviewer7.pdf",
+      "bytes": 74599,
+      "sha256": "2e0e1e9504f46ef912ed7ccfbd872fd5397e858094cc3720cd82f045011bfdd2",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_performance_final_20261004.pdf",
+      "bytes": 40802,
+      "sha256": "355609f568af533d795809876e3b81abe4bd24bf89e84b76585cf1fc7a70e0ac",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_quadratic_field_sensitivity_20261004.pdf",
+      "bytes": 46111,
+      "sha256": "08efdd1d2cb9c166cce9bb07fef23490b0787703d9fd4c897b084be3da3bb3b8",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_radial_distribution_reviewer3.pdf",
+      "bytes": 292001,
+      "sha256": "a1e04e245c9289758b210aec829f94186798e009bdb192841b7fe785437482d8",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_sampling_reviewer8.pdf",
+      "bytes": 65261,
+      "sha256": "6c1dd72dae9d277b8bf91013e4c8b9c9d405b9dab37d39caa6a9bf81415c3efa",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_space_charge_envelope.pdf",
+      "bytes": 38970,
+      "sha256": "0d9823934d6ec5f347f5935cb9231a8b7a038c984608e6b3e81b12e3659f6d3b",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_space_charge_reviewer4.pdf",
+      "bytes": 59613,
+      "sha256": "c0ad0caf9648b7000aaf7b41a578430194974c2adba3a58c713a803b831c6433",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_stripes_reviewer8.pdf",
+      "bytes": 220271,
+      "sha256": "a17c33e9b098464b212dc769ce69026a5e6883d3c77cde9206a592609f023a34",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "figures/fig_timestep_sensitivity_reviewer7.pdf",
+      "bytes": 45077,
+      "sha256": "a1ce5ee66556ae8b7e42efc9401f21bc2ec3c5c8cecb64701ea30f374257bfba",
+      "roles": [
+        "published_figure"
+      ],
+      "groups": [
+        "rendered_outputs"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/inputs/tmm_initial_particles.csv",
+      "bytes": 6417888,
+      "sha256": "178e3baf95621137e1fa882778a3ae615056f3ce88240c130cf3d66daa79d84d",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/summary/comparison_metrics.csv",
+      "bytes": 3328,
+      "sha256": "f4a23f2d7c18df701607b257f47c9b2492143447273bfc94c389cc1d8cd44709",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/summary/focus_overview.csv",
+      "bytes": 1431,
+      "sha256": "87301afca81dac9adbd9721e96ecf66abac61538681b5470a9b0a70455998b6d",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/summary/rel_own_focus_combined_index.csv",
+      "bytes": 1982,
+      "sha256": "e9d077085b4624b58906045b12b23e29b32baa4f22b3badde1fdc9e7ccb02567",
+      "roles": [
+        "focus_selection"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/summary/tmm_focus_scan_samples.csv",
+      "bytes": 7353,
+      "sha256": "28b830274f22bc33040c92220b4d15bb58fb5ff91b7356345bcf3ed17d0c0e98",
+      "roles": [
+        "focus_selection"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/summary/tmm_focus_summary.csv",
+      "bytes": 1359,
+      "sha256": "692d846389d6d5a36fc83caf274b322d7ee580f1e8425ae646fc62ea001f6025",
+      "roles": [
+        "focus_selection"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/NR_at_TMM/image_particles.csv",
+      "bytes": 2477660,
+      "sha256": "50db6025ef3fe76c4f914290fad24ff38b46f4989ad76a4a52a0300aca4c476a",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/NR_at_TMM/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/NR_at_TMM/run_summary.txt",
+      "bytes": 245,
+      "sha256": "5c271de5b2814940dff83730752c493000fea61342edf286f897c90061b05616",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/NR_at_TMM/settings_after.txt",
+      "bytes": 1010,
+      "sha256": "7b8b6639df93ce389e65582005cc3d10e39833b656fbdc1d3c35b205b8bde4d8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/NR_at_TMM/settings_before.txt",
+      "bytes": 1010,
+      "sha256": "96048f0f340f227d2eb4332a7448b5638cc27c1a744283efd377f77de11a64eb",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_at_TMM/image_particles.csv",
+      "bytes": 2477882,
+      "sha256": "d530db56c03bf43362353bb5923dde67be678338e9468896ed2b876bb56f2835",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_at_TMM/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_at_TMM/run_summary.txt",
+      "bytes": 243,
+      "sha256": "68257e7456b33cad974e41af1c080e5b5b1414f29d1b31178f10753025b127da",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_at_TMM/settings_after.txt",
+      "bytes": 1011,
+      "sha256": "e29c8ae74385941797df423ed3f27187a31626af5a9a8dca02545b2366ad9d13",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_at_TMM/settings_before.txt",
+      "bytes": 1011,
+      "sha256": "7a2c43764195f69aa8c9c29f8cca376fae04219fed5727391925fae966b7c207",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_own_focus/image_best_focus.csv",
+      "bytes": 4513309,
+      "sha256": "fdac73c24c682304dde04665d0ddf7eedf1a5e4368dc8ae26dbe63cf13eba1b5",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "785595df09772df6611da0ca95349ca072c2fcde4ecfb639679ddd06b651bb16",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_own_focus/particle_validation.txt",
+      "bytes": 190,
+      "sha256": "6c384ec2b3bca9b56aecfa901dec289d2864f315acefd0cb0fdbad04fd5fa155",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/TMM_at_TMM/tmm_image.csv",
+      "bytes": 4224857,
+      "sha256": "da469643af81d33b4ca4b78ecb440bb9029121a6b40f78d7c487cb9042176181",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/NR_at_TMM/image_particles.csv",
+      "bytes": 2477782,
+      "sha256": "ccca38a46a541aaa776095fdd9d1bf62e6bce02bdfc6d4239bb9bdf160c8d222",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/NR_at_TMM/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/NR_at_TMM/run_summary.txt",
+      "bytes": 247,
+      "sha256": "fc3d56f63a3240012c6bbac85da90709f9d2506eb98f0f0aebaaac98c7cace62",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/NR_at_TMM/settings_after.txt",
+      "bytes": 989,
+      "sha256": "36e988345aa94df6d5d7126b9e3ec2b4ca92fa0c301e17a20b3339cc2247a588",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/NR_at_TMM/settings_before.txt",
+      "bytes": 989,
+      "sha256": "fc28543218aac4d8d57656b3dd419a75a87e791320257417895ffa96a32cd33f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_at_TMM/image_particles.csv",
+      "bytes": 2477828,
+      "sha256": "49fdb3cfe7e7015b03777e6aa5a8b6c4669e153554f6dacbd098415ddc0d4cca",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_at_TMM/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_at_TMM/run_summary.txt",
+      "bytes": 249,
+      "sha256": "6f9776ac22f9c2a61aafa6ef6ddd7d1bcfea7c7a33c7d46a4edad99b59812460",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_at_TMM/settings_after.txt",
+      "bytes": 990,
+      "sha256": "c7ed2b7b21f7474ab2b928c9605395338a8cfc166cd61e678b17ef67e154b673",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_at_TMM/settings_before.txt",
+      "bytes": 990,
+      "sha256": "e19fd4c6785f3dcf4bf9dae69e7468b1cc589553188c5e722a0f923d40772906",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/best_focus_summary.csv",
+      "bytes": 499,
+      "sha256": "760280ee29abf38c2f12a0ac57810dba9d1e9506a64fb0e4fbe3cd713b0a5496",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/focus_scan_exact.csv",
+      "bytes": 4469,
+      "sha256": "839063f1271c40a85df0c095f04a7bd67f7d141baff0fabe3c48ad4fc2a6ea7e",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/image_best_focus.csv",
+      "bytes": 2477607,
+      "sha256": "8df3257a99f8b02b57a1c1db53077d23fa273a599164aad91a6c238c756feae8",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/run_summary.txt",
+      "bytes": 288,
+      "sha256": "f5a6a0a2ae5a46a2e9eb6d82f08c2691b6cd884eafdd729eda53777aff1b08d9",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/settings_after.txt",
+      "bytes": 733,
+      "sha256": "ac4268219c949710fe75116160e78bb478ecce55d1931efcc332f590bb93b6ba",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/REL_own_focus/settings_before.txt",
+      "bytes": 733,
+      "sha256": "ac4268219c949710fe75116160e78bb478ecce55d1931efcc332f590bb93b6ba",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U12p67kV/TMM_at_TMM/tmm_image.csv",
+      "bytes": 4224682,
+      "sha256": "975def112de82a7e2736334690d9e2bc3e36c992d4dbf8f0e94ba7b639db9768",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/NR_at_TMM/image_particles.csv",
+      "bytes": 2477974,
+      "sha256": "6da45846213c3edef912a5db64311561d7dbb0361458418d4ce3350479745010",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/NR_at_TMM/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/NR_at_TMM/run_summary.txt",
+      "bytes": 245,
+      "sha256": "57413118f4edfa56c0f1d9dc45d97222eab202f2a4acc50544b0a40fd9cbf56f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/NR_at_TMM/settings_after.txt",
+      "bytes": 1008,
+      "sha256": "818f2675f051e42e3e743805720c898ff1612a9ef0839caf430079083cc2ad5e",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/NR_at_TMM/settings_before.txt",
+      "bytes": 1008,
+      "sha256": "400c406cd8803362910f106c74b0d4369c36b14df3de28029b94135aee4d3978",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_at_TMM/image_particles.csv",
+      "bytes": 2477571,
+      "sha256": "5b46ef7754085d93225dc8596dc42c77e39bd57b91d006c6d58e089bb119a14e",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_at_TMM/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_at_TMM/run_summary.txt",
+      "bytes": 246,
+      "sha256": "0982935b40b38ddb045846a52fcfdb4c1e0ec815fdbd9d8c7db076f426734be7",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_at_TMM/settings_after.txt",
+      "bytes": 1009,
+      "sha256": "39234749c0e5f8bafdef728d2fda953105b001171ce0e84c3180ff55a9c04267",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_at_TMM/settings_before.txt",
+      "bytes": 1009,
+      "sha256": "a3d04ef343b16f054c0c71365a452595cc9992e7007eb25622b1ea16f937678b",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/focus_scan_all_points.csv",
+      "bytes": 13193,
+      "sha256": "0cac8e0756d55e2583b0c976c86150bedbf71df751ab19eed32504217dfecd4c",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/focus_scan_exact_planes.csv",
+      "bytes": 1314,
+      "sha256": "8bca463199b5877a8da9389a3e639def9514675fa8477157966d3e4e3533da64",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/focus_scan_summary.csv",
+      "bytes": 401,
+      "sha256": "ea4dc10c16a2ed6badd9218efa7eea8fd679478946b458fb2ad086431395d9c8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/image_best_focus.csv",
+      "bytes": 4513568,
+      "sha256": "107343c56ad72e1b3344f3d83b987aefffe6de9d2de4e65d21b29b65fe1a699a",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "b46253f80138bb0e7e6a49092f3ba462495da692ed5f200a10a56b7d2bdfda34",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/particle_validation.txt",
+      "bytes": 216,
+      "sha256": "58571c044310d5b0662cda6a54e12da8ef65c68d4011ef2085fbd3ab52e5504a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/settings.txt",
+      "bytes": 799,
+      "sha256": "7c58b66560c419662f24510ad76ca5b23be6022827a5b4371f6acac872cc495e",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/TMM_at_TMM/tmm_image.csv",
+      "bytes": 4224797,
+      "sha256": "ea42299a82d3c77fe058723b536610ab37fd0e4ee07e917f4783a45614ee2fe5",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/NR_at_TMM/image_particles.csv",
+      "bytes": 2477620,
+      "sha256": "78f4cbf8028c53193906dcedb8e4006f94a8b039b8c8a4bde85187e5b8111eab",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/NR_at_TMM/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/NR_at_TMM/run_summary.txt",
+      "bytes": 244,
+      "sha256": "a0b69c280337145e5bb46f73d0704b75554ea498aeb834813911a50d0fa9468f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/NR_at_TMM/settings_after.txt",
+      "bytes": 999,
+      "sha256": "b6e45df84eb4b498b928301f32052a99d201832ff4cd32d87e2413de1a76952c",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/NR_at_TMM/settings_before.txt",
+      "bytes": 999,
+      "sha256": "c5a4e26a7eff9039e35ef35fc26153cb6f0e8d859307027e1dc9d50e3188c37a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_at_TMM/image_particles.csv",
+      "bytes": 2477896,
+      "sha256": "bfe99268d46bfc13e4abb8bb074c7f09ff251b52d3f07583d9f3f9ff0e3b5e14",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_at_TMM/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_at_TMM/run_summary.txt",
+      "bytes": 245,
+      "sha256": "01517aa43fefa3b2ff220d347a4efd4c5d872496c9368538598ade7094bff998",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_at_TMM/settings_after.txt",
+      "bytes": 1000,
+      "sha256": "09ca302a37a0b556803a9dfeb02862adb4c74a52a4538d1390df3d01e7e3d368",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_at_TMM/settings_before.txt",
+      "bytes": 1000,
+      "sha256": "375c1dab8d0146d362bb77c976db965d13eb232cce035b6d6136f48e6e83e706",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/focus_scan_all_points.csv",
+      "bytes": 13125,
+      "sha256": "3c142e7e8d17fbeaeaaf2f1c3f06b81ee92e8f342d400616b5c702ac9c2aee73",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/focus_scan_exact_planes.csv",
+      "bytes": 1296,
+      "sha256": "eb131f063c78b7d2310bfa3914756748a2f8b9f1e34d22082772ec205b391043",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/focus_scan_summary.csv",
+      "bytes": 396,
+      "sha256": "c05644667a8c6fde897a9547c44f2c05f0770ac97a12e808f3dc07f45087b76e",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/image_best_focus.csv",
+      "bytes": 4513108,
+      "sha256": "ea8bceb27335164fb95bfc4651b096769facf259cb49f44c810922b82d01a0ba",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "ccba9273c37327155b7dbb657a8681d696b88a35d56227426dfd918ca634473a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/particle_validation.txt",
+      "bytes": 215,
+      "sha256": "5c92c4ec48e3111c5ae7fde6127f5d9fce1bc23624acc799aebe071be2e5da25",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/REL_own_focus/settings.txt",
+      "bytes": 802,
+      "sha256": "2dc1a60319072d6134cd1d841bb291c4a3248fa3ae9d08b11de84ab7f5a439a0",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U30kV/TMM_at_TMM/tmm_image.csv",
+      "bytes": 4224658,
+      "sha256": "4f214afdcbc80c57cdc0bdcbe205d52475a48098f50d6f1494233c61800983e4",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/NR_at_TMM/image_particles.csv",
+      "bytes": 2477890,
+      "sha256": "247751ae8ffefcb84adf9c48750a73843a9a732fee11fb919ec81dd67bae5212",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/NR_at_TMM/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/NR_at_TMM/run_summary.txt",
+      "bytes": 244,
+      "sha256": "08c00fd0dbd859bf5cfdfaec865a4229ac7724f2721b978bf7c90ebb351b4fa5",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/NR_at_TMM/settings_after.txt",
+      "bytes": 1009,
+      "sha256": "b2ff9cd86f11fec1e292d3a9e583b33d7e4af563450438541b3602639fb50e91",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/NR_at_TMM/settings_before.txt",
+      "bytes": 1009,
+      "sha256": "86e4b9ab4ec9730ccb103892b47f2faa83c5bcdc5582b883df88888d668537e4",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_at_TMM/image_particles.csv",
+      "bytes": 2477876,
+      "sha256": "d4704ea80385ba8ca4c5c4ffa7f18a7b2e97714ae1e7e20bbefa5ab16b138001",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_at_TMM/initial_particles.csv",
+      "bytes": 6406061,
+      "sha256": "24aba2d34361a9207da19c5a3869be37dd3aae564c9e14ae7496d717bb3ef516",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_at_TMM/run_summary.txt",
+      "bytes": 247,
+      "sha256": "7a31257cda2f60d5ab7be0351252710662c5b56023b1be71631e63eb1d44c18f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_at_TMM/settings_after.txt",
+      "bytes": 1010,
+      "sha256": "ac6a38b6aae3dbb8672797838cd8cd9a44465cac4f1a38683d375768ccd14434",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_at_TMM/settings_before.txt",
+      "bytes": 1010,
+      "sha256": "74cf3cd9b6af5442bec68b8c27c9d2be2b1df8032bc3515baf6ddb9a08ea7ca5",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/focus_scan_all_points.csv",
+      "bytes": 13086,
+      "sha256": "4fe509aa2f2ccff00facb602665dd604bdf66bb696170e5c1ba1f7f7791b55ca",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/focus_scan_exact_planes.csv",
+      "bytes": 1304,
+      "sha256": "66ef58417a7c4f6864fbb61e11b20a8788971ac3837f9c49db523d101d924449",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/focus_scan_summary.csv",
+      "bytes": 399,
+      "sha256": "118eaf595b8076387ba1f6d1bd2c3ba1a2b33711ed06d149ac00461202a2ea37",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/image_best_focus.csv",
+      "bytes": 4513215,
+      "sha256": "701df3ebb39f45960a8d7644cb3b29c622aed6005c14fb5b239c74b1ee029a4c",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "8e23a620bd16b1c70ce1c0c3dec6b5d2dd9de9eb39e31f2c91957804d8e3d7b5",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/particle_validation.txt",
+      "bytes": 215,
+      "sha256": "bd5aa760654377d38c6fcf86cb350999ad10dc76abba22332b589bdbaf59b68f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/REL_own_focus/settings.txt",
+      "bytes": 801,
+      "sha256": "691e434bc5c27a4b2402a745e981ee0979948a890405ec9e78039e4a14c8031d",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U50kV/TMM_at_TMM/tmm_image.csv",
+      "bytes": 4224345,
+      "sha256": "c50c2f8c9080e05ed05e1ddaba63e1e5005f356c53a061c6bd2d4c20de56ffe7",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "plot_reviewer3_radial_distribution.m",
+      "bytes": 6537,
+      "sha256": "cf71c718c80677b9b3c2c196ed34dbd612483fea3b0e27943e614c156cb3decc",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "radial"
+      ]
+    },
+    {
+      "path": "plot_reviewer4_envelope_schematic.py",
+      "bytes": 2216,
+      "sha256": "78ca8c857233f86ec43afebdaf1b6d92a02d4982e03ea240c9dfd2f8e7324bc3",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "schematics"
+      ]
+    },
+    {
+      "path": "plot_reviewer4_space_charge.py",
+      "bytes": 3725,
+      "sha256": "051b12c269bb3182b4af98b2c84be4acf553451202749673e986d36398f2bfa8",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "publication_verification.json",
+      "bytes": 10471,
+      "sha256": "0ebb586d49e7c2c9caef0a3ee0a77b65e55dbf9e507ca6994bd27866270c28d8",
+      "roles": [
+        "generated_metadata"
+      ],
+      "groups": [
+        "publication_metadata"
+      ]
+    },
+    {
+      "path": "README.md",
+      "bytes": 5299,
+      "sha256": "b292a8a478ca95b1cc0f9dd4ccb01c14c649ab800b58c74751795a182e8f4feb",
+      "roles": [
+        "generated_metadata"
+      ],
+      "groups": [
+        "publication_metadata"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/plot_reviewer7_sensitivity.m",
+      "bytes": 7138,
+      "sha256": "650446c8db309ad3afb6b20bf7a4e9e373d680813df04a31b03b38d632d5bdc4",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "particle_count",
+        "mesh",
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/run_reviewer7_bootstrap.m",
+      "bytes": 8407,
+      "sha256": "37f823ac9f0a2526bf3abba33e6d9579d5082f71ab6559f6640a46ea68dd32b9",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_intervals.csv",
+      "bytes": 27775,
+      "sha256": "9c804ff85b37f93e2cf46e2dadad28d58dd409cc20f0cce1ebc09ee29bc46ed0",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_U100kV_bootstrap.csv",
+      "bytes": 5621,
+      "sha256": "c20bc8240ba3d59155ff7f0b634ce2392fa4d7f09dcdaf9e53856ebb98e054a2",
+      "roles": [
+        "voltage_bootstrap_detail"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_U12p67kV_bootstrap.csv",
+      "bytes": 5735,
+      "sha256": "24c663431b5417682ad6495f4b56603bd3cc00483ced449caea91d840ec07a81",
+      "roles": [
+        "voltage_bootstrap_detail"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_U150kV_bootstrap.csv",
+      "bytes": 5612,
+      "sha256": "6d9bd21eb74c82c551a537689a67b149c296138b9d3ead639005f73739015aa4",
+      "roles": [
+        "voltage_bootstrap_detail"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_U30kV_bootstrap.csv",
+      "bytes": 5568,
+      "sha256": "18dc4ec236c7cc713620513f1730c9fb4e27f6ddfd339ee028dc2283d8d1c4ea",
+      "roles": [
+        "voltage_bootstrap_detail"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer7_20261004/voltage_U50kV_bootstrap.csv",
+      "bytes": 5571,
+      "sha256": "4cc9dd4018d56c458f5250f68442dfe155927268a3e657364635e33aa3937e86",
+      "roles": [
+        "voltage_bootstrap_detail"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "RSI_reviewer8_20261004/run_reviewer8_sampling.m",
+      "bytes": 4324,
+      "sha256": "6e9d01f85932b413acfab2e0cb93a54345df14d4ecbe97d81b6d2c1c0a4fbfc0",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "initializer"
+      ]
+    },
+    {
+      "path": "RSI_reviewer8_20261004/sampling_gof.csv",
+      "bytes": 644,
+      "sha256": "bf50e29fe983e79e3bb1e825d6e88fea7428f03ccf53d46db02a9416e156b7bf",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "initializer"
+      ]
+    },
+    {
+      "path": "RSI_reviewer8_20261004/sampling_histogram_bins.csv",
+      "bytes": 18525,
+      "sha256": "0b361cf074913ba8a473f2754e20ac7a101f1bf43d85afb38fa37b9dca257201",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "initializer"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/load_comsol_initial_csv.m",
+      "bytes": 739,
+      "sha256": "202c911d882a6ed8a4d66c058a3941f8fabbb502398a0f8d1b98adf922341715",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/metrics_row.m",
+      "bytes": 451,
+      "sha256": "c6ff56b00ea98197853d38457ad75299a5001ef8b3e39350f5c78811e19b566d",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/nonrel_intrinsic_coordinates.m",
+      "bytes": 611,
+      "sha256": "3e7db9285242045a6640a4aaea7455605afb23aa72a05486e21f887397a41b35",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/results/space_charge_kv_comparison.csv",
+      "bytes": 4085,
+      "sha256": "ee96470c1b73125bedeed0e67072bc38c87f7e149309b3fc2bff3bbb1e066219",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/results/space_charge_kv_comparison.mat",
+      "bytes": 3596368,
+      "sha256": "fc5ab66e0eaa8f41b68ebc01674caa21645652cd930e443aec1338fa9ae6343e",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/results/space_charge_kv_convergence.csv",
+      "bytes": 1121,
+      "sha256": "7961d34ec93718d340e8386f26d6bba6b0ba066884070d263a0527800d6a5b3f",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/run_kv_envelope_sweep.m",
+      "bytes": 8503,
+      "sha256": "5ed0871c56ad75860406997099607962c3287a15951bb23c5a3e9235950b2bb6",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/revision_simulation/run_mc_convergence.m",
+      "bytes": 4656,
+      "sha256": "e162c6c78518cf322b1b4479733101b5125410b9f78f8e9650ec62ae1df4116d",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/root_matlab/calc_common_physics.m",
+      "bytes": 4851,
+      "sha256": "51b3faa2c57d41047ea185aa774f934b27f836ee0b678dfe9ecd2704b3f580cf",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/06_source_code/root_matlab/calc_M_ee.m",
+      "bytes": 17993,
+      "sha256": "e2ecfe40937c4205dc0c11674d6f78341c20ee3986ccb6e0f0df8e5a7736b450",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "space_charge"
+      ]
+    },
+    {
+      "path": "RSI_revision_simulation_package_20260901/07_source_inputs/intrinsic_pair/01_intrinsic_error_initial.csv",
+      "bytes": 6417888,
+      "sha256": "178e3baf95621137e1fa882778a3ae615056f3ce88240c130cf3d66daa79d84d",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "intrinsic_spots",
+        "space_charge",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case01_coordinates.csv",
+      "bytes": 3832375,
+      "sha256": "bcf1bea8f26e734b9b931608eda488ed8daf24d36fa0f673aebe87be573d1366",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "intrinsic_spots",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case02_coordinates.csv",
+      "bytes": 3816805,
+      "sha256": "eb1acb858b9f9ddb282fc5ef86ae62b10d5ebb748a82522575f7e008fb46f54c",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case03_coordinates.csv",
+      "bytes": 3832679,
+      "sha256": "3961de4954299af5d34499705cdb0040542e1494f979e41b1327883ff8f81b24",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case04_coordinates.csv",
+      "bytes": 3832158,
+      "sha256": "6e1a85655502a4b9413541242bddd683a67132cd33a577d95331a58e26dc399b",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case05_coordinates.csv",
+      "bytes": 3832355,
+      "sha256": "0d65d8f6c61df99e721a716fa2c451569ac09b11bb36d9ceb09f2272cf09ef56",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case06_coordinates.csv",
+      "bytes": 3830857,
+      "sha256": "95e896186b52c50edb6f4085a2cba9bac0304e4228cda994efe86cff10dabb28",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/case07_coordinates.csv",
+      "bytes": 3832612,
+      "sha256": "977ae685e3c662ef5ea64d557d789ab78b42d68586d7c23ce72faf3c0af9657b",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/local_timing_control.csv",
+      "bytes": 264,
+      "sha256": "ee2b2827fbe3a9d4def00faf9369b00958cbc29a85fb78d0aee3a2858f414b4c",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/plot_performance_and_quadratic.py",
+      "bytes": 7217,
+      "sha256": "ed76d184500124179c8820290d91d77ead2328b2eb99642fd6b0eabcbdb66061",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "performance",
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/redraw_signed_figures.py",
+      "bytes": 9093,
+      "sha256": "0eaed90263b73c38d9fc56f2da31925d2a7223cb9568729862c712b257204b63",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "schematics",
+        "intrinsic_spots",
+        "initializer",
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/run_sign_stripes.m",
+      "bytes": 8172,
+      "sha256": "bed4df09a0a131cbf53ed0195f1f9e0df2319c07e6aed9d96e1be76e9b66340b",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/run_sign_validation.m",
+      "bytes": 6427,
+      "sha256": "6246d8327544a8cb873faef27faa01a397ae0b0f9fdde561853847bf293f1906",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_common_physics.m",
+      "bytes": 5066,
+      "sha256": "3bd77d3f8f5095a2bb08cea3070f5923355c60f036f9efa21a33ac5b232e7329",
+      "roles": [
+        "plot_or_processing_code",
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "parameters",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_B1.m",
+      "bytes": 1763,
+      "sha256": "a54d7354626dbed324be92036679dedabf22a22b813d202c3aff56cee3358ec5",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_Br1.m",
+      "bytes": 1834,
+      "sha256": "563d961495a3777f1cec9d8ac7a595bae9dcc35e1ff78dbd42e324bf975cb186",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_E1.m",
+      "bytes": 720,
+      "sha256": "94aeb4e05fe9f04c068f83412de1aa5014d53936f926a2fd92ed812dfc32d5e3",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_EB0.m",
+      "bytes": 951,
+      "sha256": "087004e9f02bc684d7a1293cdf242ee45db4718279b4c5b3aa51fea6670045ac",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_EB_angle.m",
+      "bytes": 3448,
+      "sha256": "c7ba8170e66d308f624f9d86dc9c19d09a84df3b9efcdfb86335a3c43d45f899",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_ee.m",
+      "bytes": 17993,
+      "sha256": "5477b00856362d6f207759fabf3e1a045042c9689b0a0429ee063011ae0c6f08",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_M_spread.m",
+      "bytes": 952,
+      "sha256": "462c414bb188e19fa349bed9c05eeb48fde337695591d8bfcf5ccd737f724566",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/calc_nonrel_magnetic_phase.m",
+      "bytes": 2566,
+      "sha256": "c4e32b501499b2558ef94bbbe2a1f307d9261b99a7330d509b261b07549f4baf",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/init_particles.m",
+      "bytes": 4395,
+      "sha256": "f084e4bfa64a0fa8cde435969e5b99d5bb592adfefcbb6f83d58a11bfbf3c087",
+      "roles": [
+        "plot_or_processing_code",
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "parameters",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/load_comsol_initial_csv.m",
+      "bytes": 1200,
+      "sha256": "f9a4040e0e768ee2d62a824eae68e65421af315cfd4fb6ef1fb8c80aa19cd409",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/run_transfer_matrix_model.m",
+      "bytes": 2163,
+      "sha256": "36f369c268aaf7dc71364d3e818c321dbd27c9b7c9b24d60187056aca2f54363",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/summarize_beam_metrics.m",
+      "bytes": 864,
+      "sha256": "a4bc7a163d25df95dd4e16a473c0c2472ada2bf4903e4a68c2a901d9add87039",
+      "roles": [
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/runtime/table_iii_tmm_config.m",
+      "bytes": 1502,
+      "sha256": "0fe14824893092a74cc2cffb80e4d6351acada3a8e73c3b3f92a8010bdf93888",
+      "roles": [
+        "direct",
+        "plot_or_processing_code",
+        "current_signed_runtime"
+      ],
+      "groups": [
+        "parameters",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_axis_response.csv",
+      "bytes": 761,
+      "sha256": "d38ef483d54c65df0246222d8c35e99530f58b01ee76c4feeea11fa1f8206a20",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_display_ids.csv",
+      "bytes": 20339,
+      "sha256": "af3412521aca897adc07c7cafdb8a19b7d7484fb4f6311d33835435a9cad4522",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_intervals.csv",
+      "bytes": 5808,
+      "sha256": "d723e26d04d8b727443399b2623a9833cf9dc5ba3ade6ea7a2545e26fc8faa57",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_metrics.csv",
+      "bytes": 1606,
+      "sha256": "3de329a70fdb885506e8c6c51f39a9c5c7a55a81eb71cbba1763ee2bd660a59a",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_paired_coordinates.csv",
+      "bytes": 10955620,
+      "sha256": "6f83206b93b75ee99fff4bead93a2749092d7a5a9eb505edc168f530c8f6d6a9",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/table_iii_intervals.csv",
+      "bytes": 19269,
+      "sha256": "a9272b13f17c7eb3104c57c943b0d3905d06c37f75cca6111d915202147a4a31",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/table_iii_metrics.csv",
+      "bytes": 1521,
+      "sha256": "bb95e42d8811ac9d12a554e2f0a17ad0c9bc26158c87e57a4b31fb87c5587fc7",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/test_sign_runtime.m",
+      "bytes": 2198,
+      "sha256": "19a9e036a3739b72eb30cfba9bd13c5901a30e3a8de70afe78170bb461862b9c",
+      "roles": [
+        "runtime_tests"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/unit_tests.log",
+      "bytes": 266,
+      "sha256": "461576d647dc4281690693c981b053e88901380d29f743bb2056ddebe5fbd4b3",
+      "roles": [
+        "runtime_tests"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/03_时间步与网格/mesh_M1_M5_bootstrap_ci.csv",
+      "bytes": 1667,
+      "sha256": "a9e923f68f05f00fd26369db185f1f13be0cd1d73f5634afca0b0eb26de02759",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/03_时间步与网格/mesh_M1_M5_case_summary.csv",
+      "bytes": 1804,
+      "sha256": "d3e7846af90c7ffc3a1bdfe164ea81760224441558ed5424c5d48caf6b4d4fa6",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/03_时间步与网格/timestep_NR_bootstrap_ci.csv",
+      "bytes": 1371,
+      "sha256": "7a7642594cf8e72cff23d7a93e14972e2f00b1bb0527fa05996c187d61293db7",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/03_时间步与网格/timestep_NR_case_manifest.csv",
+      "bytes": 4545,
+      "sha256": "cc2d895114221fe45f2ca34164eb0dbf943d22e6b8d5e6e6f5afd995539b75d4",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/03_时间步与网格/timestep_NR_metrics.csv",
+      "bytes": 2456,
+      "sha256": "767b75b0940b4ebab5e8f044300959ba2bb1602186e21f247850eafd58af1dc0",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/04_统计与图件/mc_convergence_summary.csv",
+      "bytes": 1490,
+      "sha256": "f09b33675804e704147c69546c4f250828d51c7df82cc39eb8e9a6f9bfe0b283",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI仿真结果总整理_20261002/04_统计与图件/mc_seed_summary.csv",
+      "bytes": 7773,
+      "sha256": "0d929cc6ee5d5532179b52dcb101afe56be73e8302734db3d10c15e9458077ad",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/baseline_three_model_20260904/NR_full/poincare_zrel_1000um_with_pidx.csv",
+      "bytes": 2616668,
+      "sha256": "b27668f708f29ecc8d3caf4865146eacf0c97f7ac855ea465d0e1093f1bfb42b",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "intrinsic_spots",
+        "radial",
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/baseline_three_model_20260904/REL_full/poincare_zrel_1000um_with_pidx.csv",
+      "bytes": 2615626,
+      "sha256": "f57d5d19d18557445d756f382262a0e98b77932b6cfc4609c35847b285fe1dc8",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "intrinsic_spots",
+        "radial"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/table_iii_nr_full_20260910/02_em_field_angle_error/rel_off/poincare_design_plane_with_pidx.csv",
+      "bytes": 2472411,
+      "sha256": "334c5836e4875258b511ae848d285091fc8b3183021d7c88549dc20e704ece86",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/table_iii_nr_full_20260910/03_e_field_zero_order/rel_off/poincare_design_plane_with_pidx.csv",
+      "bytes": 2616679,
+      "sha256": "80d78d1b4b66ba2da7131b31f9ce5aa41ad037d1b4825bed921bf5b7043eb04b",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/table_iii_nr_full_20260910/04_b_field_zero_order/rel_off/poincare_design_plane_with_pidx.csv",
+      "bytes": 2617095,
+      "sha256": "3ac9b0c21f55a111397dbbdef954ef078b7dfc22379f56eedd0f14c89374253a",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/table_iii_nr_full_20260910/05_b_field_gradient/rel_off/poincare_design_plane_with_pidx.csv",
+      "bytes": 2615447,
+      "sha256": "03792958e601f070e05306a266e290458a1c763782464ae88dc67d3c9961e34c",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/03_COMSOL完整结果/revision_comsol/table_iii_nr_full_20260910/07_e_field_gradient/rel_off/poincare_design_plane_with_pidx.csv",
+      "bytes": 2616127,
+      "sha256": "11562af4da1e2194b550599aef67e1ef5258fae390c4fbb5bd43c01f3b0788c2",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI大修仿真统一归档_20260911/05_可复现脚本/root_matlab/init_particles.m",
+      "bytes": 4395,
+      "sha256": "f084e4bfa64a0fa8cde435969e5b99d5bb592adfefcbb6f83d58a11bfbf3c087",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "initializer"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/benchmark_config.json",
+      "bytes": 529,
+      "sha256": "04bd6eadd75805b8071a76b6490dada7ef99668cc43472b9fdf40f7dfff707d7",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_provenance/plot_performance_comparison.m",
+      "bytes": 3338,
+      "sha256": "c5d393a1421ba0398ffb2ef46134c68d3ab05e32636d7d40bc2d8ba3080f1059",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_provenance/run_summary.txt",
+      "bytes": 115,
+      "sha256": "9b18c2f08b7655b6776daad7094eae2485d0b6bbdc02debe17fcb8eb6c69f832",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_provenance/run_t2_case06_axis_1um_20261002.m",
+      "bytes": 8698,
+      "sha256": "efb667730284b20eaf07101d7fc71e3aaff55960dafd7a829549da379eab8d30",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_provenance/settings_after.txt",
+      "bytes": 544,
+      "sha256": "3f3e091b6b27981d834fbe9e8de6dcf60803e15d2d495c6cf13e458e8411c58c",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_provenance/settings_before.txt",
+      "bytes": 534,
+      "sha256": "5e2ffee48e34c89fc23d4771f947aafa4472421fe1aa6532c85ca123dd4eb728",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/comsol_timing_provenance.csv",
+      "bytes": 1942,
+      "sha256": "461e25a5cf8302ce6551a0243f6ce66cb39816e14afe1af3a3e79dd877fea930",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_common_physics.m",
+      "bytes": 4981,
+      "sha256": "c4ecdba50dff1927269c0e18d955ec7c842354cb6ec85a94748925f800a9b09b",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_B1.m",
+      "bytes": 1763,
+      "sha256": "a54d7354626dbed324be92036679dedabf22a22b813d202c3aff56cee3358ec5",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_Br1.m",
+      "bytes": 1769,
+      "sha256": "023178d755a86896a706183239fe1f175d8226cfbcb4523a877b1e4917387095",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_E1.m",
+      "bytes": 720,
+      "sha256": "94aeb4e05fe9f04c068f83412de1aa5014d53936f926a2fd92ed812dfc32d5e3",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_EB0.m",
+      "bytes": 951,
+      "sha256": "087004e9f02bc684d7a1293cdf242ee45db4718279b4c5b3aa51fea6670045ac",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_EB_angle.m",
+      "bytes": 3395,
+      "sha256": "45cb8fadf8505e64a489b85022a073d922f6fe81f43076dd7f8040ceaa75f336",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_ee.m",
+      "bytes": 17993,
+      "sha256": "e2ecfe40937c4205dc0c11674d6f78341c20ee3986ccb6e0f0df8e5a7736b450",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_M_spread.m",
+      "bytes": 952,
+      "sha256": "462c414bb188e19fa349bed9c05eeb48fde337695591d8bfcf5ccd737f724566",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/calc_nonrel_magnetic_phase.m",
+      "bytes": 2566,
+      "sha256": "c4e32b501499b2558ef94bbbe2a1f307d9261b99a7330d509b261b07549f4baf",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/init_particles.m",
+      "bytes": 4395,
+      "sha256": "f084e4bfa64a0fa8cde435969e5b99d5bb592adfefcbb6f83d58a11bfbf3c087",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/load_comsol_initial_csv.m",
+      "bytes": 784,
+      "sha256": "4ea50742da5b5932c4ff78d475874198193362e7bfd5ca8f58aaaad5bf57f1ea",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/run_transfer_matrix_model.m",
+      "bytes": 2163,
+      "sha256": "36f369c268aaf7dc71364d3e818c321dbd27c9b7c9b24d60187056aca2f54363",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/summarize_beam_metrics.m",
+      "bytes": 864,
+      "sha256": "a4bc7a163d25df95dd4e16a473c0c2472ada2bf4903e4a68c2a901d9add87039",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/final_runtime/table_iii_tmm_config.m",
+      "bytes": 3298,
+      "sha256": "02a584f57efcfda3b0a6120c655f461cb0aa86f38dc8eb6316a03e5ca5e4199c",
+      "roles": [
+        "historical_timing_runtime_NOT_current_physics"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/hardware_and_scope.md",
+      "bytes": 1742,
+      "sha256": "a349e2d29c61542115707944a154eb7dbac779465688d7fa431684ba8bbb8268",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/hardware_system_readback.json",
+      "bytes": 357,
+      "sha256": "268730a186c05acaaef057ed422edc163a31ac0143f6724caa471f26cf28cda3",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/tmm_timing_raw.csv",
+      "bytes": 15596,
+      "sha256": "500413db34e26c13cfabac7be1f12d1ba73f9fb24d13a595a89d7aedf78f1eca",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/01_最终TMM性能/tmm_timing_summary.csv",
+      "bytes": 1235,
+      "sha256": "c7797a70730fea456309e71e2bb36ef5935a79ce99ce6e0b90f3a6fabcb44a61",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/actual_step_and_settings_audit.csv",
+      "bytes": 548,
+      "sha256": "d3a5f4537f31d88f563af92eeb9b043e03f693bae615a8cd38c1d6c385d227ac",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/dual_origin_truncation_summary.csv",
+      "bytes": 1765,
+      "sha256": "65e586c7fe4a1774c2dc9d640a637ef20d817969b8dd00773935434a68320e4b",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/image_particles.csv",
+      "bytes": 2477795,
+      "sha256": "1ebc35a35a5b1e4b6faf06be4d10a8071d0b4e7809a322cf0dc63e69a081e930",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/run_summary.txt",
+      "bytes": 175,
+      "sha256": "aa8e74da87d55eed2221a15719974bd60c165a8243eedb2a36fc6512ebedef9c",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/settings_after.txt",
+      "bytes": 856,
+      "sha256": "533ca49b5f24acf11884b19e0816bbbd356ad40c2dbfcb1c0d27e98cfa036af2",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/settings_before.txt",
+      "bytes": 856,
+      "sha256": "533ca49b5f24acf11884b19e0816bbbd356ad40c2dbfcb1c0d27e98cfa036af2",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/solver.log",
+      "bytes": 98,
+      "sha256": "f3573480e1584587438e8cb729e72dec832f55b90ed11f58c105d80be9fa8100",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0_control/solver_progress.log.gz",
+      "bytes": 170841,
+      "sha256": "76436cb53964458bee5d8408d94cc3b7a35b1eb92360acd5f1c65511a3ba43fd",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/image_particles.csv",
+      "bytes": 2477981,
+      "sha256": "c8236a1d97822aa618dec6fedc98854f04e84d9947febfe8c0999bd6eef14c28",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/run_summary.txt",
+      "bytes": 171,
+      "sha256": "9f5a50e7d14b26760ec4680f4c2062b30abfbc1ee5d2a1a3065b4f043446cadc",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/settings_after.txt",
+      "bytes": 864,
+      "sha256": "37d16539a10470a780933d67e29c1714bf168c4394f3974ec58bde27611dac91",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/settings_before.txt",
+      "bytes": 864,
+      "sha256": "37d16539a10470a780933d67e29c1714bf168c4394f3974ec58bde27611dac91",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/solver.log",
+      "bytes": 88,
+      "sha256": "eab1e72b79e94c8a636bb31a70a39df4d33929384db6e5f475086bc3bb386bbf",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H0p5/solver_progress.log.gz",
+      "bytes": 171020,
+      "sha256": "a456c9a6ab80ca4b59590f54111b2c3e21ca26bfe6c4c9b6f0be9af5e3e5c902",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/image_particles.csv",
+      "bytes": 2477873,
+      "sha256": "3e857c9d43cf0956b3084842188b2c9fe149845a4e1890728e95d261dc9e7102",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/run_summary.txt",
+      "bytes": 184,
+      "sha256": "d6dcf609fdaf88b5c090a5799875db75091e860a14c98b5fb1464fc770833cdb",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/settings_after.txt",
+      "bytes": 924,
+      "sha256": "b08ac17808c6a53597fee29700f8bd82963ad9ae9b7c0b4850614ab43c5f5aa3",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/settings_before.txt",
+      "bytes": 924,
+      "sha256": "b08ac17808c6a53597fee29700f8bd82963ad9ae9b7c0b4850614ab43c5f5aa3",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/solver.log",
+      "bytes": 84,
+      "sha256": "91040c89c30318133b19ac765b9339b3f85b9759a1541213bfbb5a1bd953c55e",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H1/solver_progress.log.gz",
+      "bytes": 172682,
+      "sha256": "e51b27ccb6e679c38d9eb2f2d82f705aa0d496ce72777bb57dd3809b1c55e783",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/image_particles.csv",
+      "bytes": 2477960,
+      "sha256": "acbd7e61328af55b5de1a029a3a14c88a84ef7a8d1387943639a740960d1ef94",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/run_summary.txt",
+      "bytes": 184,
+      "sha256": "bfaaf53073932b8c70090abf66ea3a143dae406687f22bf03e55bdc7dfce234c",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/settings_after.txt",
+      "bytes": 924,
+      "sha256": "3887dc1bcc118a0e53fb440dede04b7b9e12b955a791ed1307f0ef30adb102d0",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/settings_before.txt",
+      "bytes": 924,
+      "sha256": "3887dc1bcc118a0e53fb440dede04b7b9e12b955a791ed1307f0ef30adb102d0",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/solver.log",
+      "bytes": 84,
+      "sha256": "18200f0090af2224adef376cd80841ec2dbce73c15ee08e6e6ef16670ff7b207",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/entrance/H2/solver_progress.log.gz",
+      "bytes": 170437,
+      "sha256": "a5bce5e2390469d75fb6aef07c05ca55ff3824d2ffe6a9ac2da83cdeb748e58b",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/input_manifest.csv",
+      "bytes": 3590,
+      "sha256": "48376ef8b45c41e54c2b06e12e0d525969fb154f2ab48042f3659c9f09fb4f96",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/image_particles.csv",
+      "bytes": 2477689,
+      "sha256": "3c21a1386774cd8cacf44210fb55f31eea4c5360b9f5cd890478d8b2c008963a",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/initial_particles.csv",
+      "bytes": 6405741,
+      "sha256": "7da8aaf1f219ed726d68611846d74191b9a8403c89834ac6a00d5d23f57fc00e",
+      "roles": [
+        "shared_initial"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/run_summary.txt",
+      "bytes": 175,
+      "sha256": "48be0b38a486e272d6ebdd568e5ed1f02d1159e66b9ee3bda3647915cb631196",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/settings_after.txt",
+      "bytes": 864,
+      "sha256": "e09ba42eb09af66cee180b2e9746088cc6aa876a295a4211dc57fbe84633fa98",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/settings_before.txt",
+      "bytes": 864,
+      "sha256": "e09ba42eb09af66cee180b2e9746088cc6aa876a295a4211dc57fbe84633fa98",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/solver.log",
+      "bytes": 98,
+      "sha256": "47fa225fa65dd1236099541b7172411da8f0e5b531e8d27c0ea74aafb56f0a4c",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0_control/solver_progress.log.gz",
+      "bytes": 171940,
+      "sha256": "543489e8c975f46f022517d5b859861980043d8d9c359de107014b65c48ae2d1",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/image_particles.csv",
+      "bytes": 2477683,
+      "sha256": "d8e69f3aff27c7de0c455ac2b39e16e54e9f6663b576511e409fa80347af8aa7",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/run_summary.txt",
+      "bytes": 171,
+      "sha256": "03e16f7b03162d799e12c86ed8b98c99911edb64aecca48e0281c2ef9e798f89",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/settings_after.txt",
+      "bytes": 872,
+      "sha256": "7b40250b4f644c7d6fe30955e6abefbc8fb4914503c1c0670d32bfa0e652be60",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/settings_before.txt",
+      "bytes": 872,
+      "sha256": "7b40250b4f644c7d6fe30955e6abefbc8fb4914503c1c0670d32bfa0e652be60",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/solver.log",
+      "bytes": 88,
+      "sha256": "7c1cedd6b496ce6cf97fd4b694feb6e4f3e49bc74946b2358ffa1ecabb956d69",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H0p5/solver_progress.log.gz",
+      "bytes": 170216,
+      "sha256": "843f2b12dfc046911d1ea372741a57ef69d198894842d9bff12c1f2bba2a1763",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/image_particles.csv",
+      "bytes": 2477927,
+      "sha256": "3d6373b15058cb657810cc9c3fc86cd2206dc1b2cb0d7eeaa55d4d6ea0f69d99",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/run_summary.txt",
+      "bytes": 184,
+      "sha256": "38d53b6e8999b9517a11c3eb1ab8709c8cb03ffde1b362baa3caca45eefb2a18",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/settings_after.txt",
+      "bytes": 932,
+      "sha256": "3c3ca626a97701ccb7b417adfcd9565a75392bdf4c06c06a997d77c008d2a5a0",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/settings_before.txt",
+      "bytes": 932,
+      "sha256": "3c3ca626a97701ccb7b417adfcd9565a75392bdf4c06c06a997d77c008d2a5a0",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/solver.log",
+      "bytes": 84,
+      "sha256": "2f439f9d5ceaa7dc0848011e78b05b03e36c6d944c6b1cd9ecec03ea3b89f18d",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H1/solver_progress.log.gz",
+      "bytes": 170058,
+      "sha256": "6710979429a572a9da15b691e121df1b0a5a9a02e8e48106cb4816d2d379d75d",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/image_particles.csv",
+      "bytes": 2477676,
+      "sha256": "74cdbbed9436561c1886e8cb6b1f58f2270f8a9da27721197444aec9209d225d",
+      "roles": [
+        "raw_particle_coordinates"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/run_summary.txt",
+      "bytes": 184,
+      "sha256": "8c7a3d5730df21ad124da4e8a7b1d8765a2a32e1459410110460767a95963d14",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/settings_after.txt",
+      "bytes": 932,
+      "sha256": "8d3e228594159c4c81d6aaa16081835eea08de9072377079c2025cbe350674c6",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/settings_before.txt",
+      "bytes": 932,
+      "sha256": "8d3e228594159c4c81d6aaa16081835eea08de9072377079c2025cbe350674c6",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/solver.log",
+      "bytes": 84,
+      "sha256": "24a9053766862e35e7832a10861c0cc0a6adafefcd9520cd5b47d874ebf3defb",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/midpoint/H2/solver_progress.log.gz",
+      "bytes": 170302,
+      "sha256": "df8d07fda3f656e06da7caa303f6d374fc483a51cb4d53799001a25108943936",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/paired_bootstrap_CI95.csv",
+      "bytes": 1172,
+      "sha256": "7702b6bca581e54038cbf9e694817d1b6afbc35b4229b22dc6722b7ad7db0653",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/reproduction_scripts/audit_second_order_livelink_settings_20261004.m",
+      "bytes": 2385,
+      "sha256": "36b1edbb6605fd8eceebb1703689f8a21771e8ce6529aaa5b918adcf137f38cd",
+      "roles": [
+        "archived_processing_code"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/reproduction_scripts/finalize_second_order_nr_rtol1e7_20261004.m",
+      "bytes": 12270,
+      "sha256": "1b36fc89473e693aeb16fcbcf03883f944fab2eeddcba7cc3dff49e00052d816",
+      "roles": [
+        "archived_processing_code"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/saved_model_livelink_settings_audit.csv",
+      "bytes": 945,
+      "sha256": "c29bc600dfbaf3cf4215f288b66fdedfccbc03e5702cb3c6d4bec55538a861fe",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/02_双场口径rtol1e7/saved_model_tolerance_and_mesh_audit.csv",
+      "bytes": 4007,
+      "sha256": "b085864c3cd300cd07698338aa465e77d8cc40d3d9b4d3900346a44f2fae9c62",
+      "roles": [
+        "solver_audit"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/benchmark_config.json",
+      "bytes": 489,
+      "sha256": "219c6c68f90859f7157273d50f427a59ceefe0e74af95bf9833c63dd7f20e448",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/benchmark_driver.m",
+      "bytes": 13247,
+      "sha256": "a67a7fd4803224d4e02f76d3ccece9363c841e032d87851052d5adbb3dda2dfa",
+      "roles": [
+        "plot_or_processing_code"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/final_runtime_manifest.csv",
+      "bytes": 1466,
+      "sha256": "c86d019c47af3157e543b3adbb5ff82759982b535828198dad8f815ee4282032",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/hardware_system_readback.json",
+      "bytes": 357,
+      "sha256": "268730a186c05acaaef057ed422edc163a31ac0143f6724caa471f26cf28cda3",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/matlab_function_paths.csv",
+      "bytes": 3677,
+      "sha256": "39a111e5c16106317b74c1d0ff9fe87bea443b61a6afb0ff4211aa674c691dfa",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/matlab_hardware_readback.json",
+      "bytes": 311,
+      "sha256": "7cfccbe991b22d9aa926c88c6a47e816d12b9b389cb03260759bd3b41309fa1e",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/matlab_stdout.log",
+      "bytes": 1412,
+      "sha256": "0bf38c0b21a66e8dc361d1a7e71861ef5b25f3c74016393f438c0a79e20e4366",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/memory_monitor.csv",
+      "bytes": 71561,
+      "sha256": "3e8a5cb7e2d09940a6f7fb975c5905e57b3ecebbd3b341685cbc9e89db146e06",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/memory_sampling_summary.csv",
+      "bytes": 280,
+      "sha256": "0c9cc992c816bfd145760ef3a56afb666e604d5115788d4c2a4f6c2554b5e861",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/run_diary.log",
+      "bytes": 1488,
+      "sha256": "fcd7468abfd1e1bf0a0b26aa29690ac0f19be3565b8bdcc97dce3724f08e22a8",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/sample_mapping_validation.json",
+      "bytes": 162,
+      "sha256": "945bfc677a01065e528cde7349ca068cba2a928e7d35eaeaca67d2c3d12a380e",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/saved_output_verification.json",
+      "bytes": 302,
+      "sha256": "65042ce06db08a1ea753292833358ac87d31505bd8ce486e8b7b5b9332b4a097",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/tmm_timing_raw_with_50million.csv",
+      "bytes": 17867,
+      "sha256": "14905f81964fa7a1c826f05bebae3014dfaf16f2d29855ac36fa8e8c1ea21a02",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/tmm_timing_summary_with_50million.csv",
+      "bytes": 1393,
+      "sha256": "be37dfb6689eb7632ba9a7086e3044435597cdf6781c972bb08fbb6fd73b0661",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/transport_source_comparison.json",
+      "bytes": 240,
+      "sha256": "b898dcb63df7edcc4b6c1955806279efb4459582a9d8235917a4bcf96eb79ad9",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/06_五千万粒子实测/validation_summary.json",
+      "bytes": 208,
+      "sha256": "5e228722dcc22c8b9e028c68cde4913a62c4839e937b255c823def951369c587",
+      "roles": [
+        "timing_evidence"
+      ],
+      "groups": [
+        "performance"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/07_历史rtol1e5二阶场对照/accepted_step_summary.csv",
+      "bytes": 258,
+      "sha256": "c23c22f80f5167c39e2daf4f00980c51c4a1acb6ca243bec7a02b7f83c46995a",
+      "roles": [
+        "old_tolerance_audit_NOT_current_quadratic_table"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/07_历史rtol1e5二阶场对照/paired_bootstrap_FW99_CI95.csv",
+      "bytes": 659,
+      "sha256": "addc39a8a72eb3d40b454ebf24bc02d58e7a94cc25d8acb4dff4f6ee12feefec",
+      "roles": [
+        "old_tolerance_audit_NOT_current_quadratic_table"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/07_历史rtol1e5二阶场对照/particle_and_settings_audit.csv",
+      "bytes": 507,
+      "sha256": "3eaf9eac8d034d10eda45951c93d4078dae416134c493c776e888dee46a6e379",
+      "roles": [
+        "old_tolerance_audit_NOT_current_quadratic_table"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/07_历史rtol1e5二阶场对照/recovered_source_settings.txt",
+      "bytes": 714,
+      "sha256": "28958c975e0dcd13243ed7ba5313ebbe4eda97abdf638f2fd3fd0bdae336fb5b",
+      "roles": [
+        "old_tolerance_audit_NOT_current_quadratic_table"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI最终版报告与汇总数据_精简版_20261004/07_历史rtol1e5二阶场对照/truncation_comparison.csv",
+      "bytes": 1121,
+      "sha256": "ad0e4de023ce358b4c7db2f26f848b3115dac77c00445c4c055933939b42df7e",
+      "roles": [
+        "old_tolerance_audit_NOT_current_quadratic_table"
+      ],
+      "groups": [
+        "quadratic"
+      ]
+    },
+    {
+      "path": "RSI第三版任务1-5成果归档_20260915/02_任务1-3_MATLAB算子修正与回归/table_iii_corrected_tmm_coordinates_with_pidx.csv",
+      "bytes": 22184143,
+      "sha256": "284d4d2430f46f0882802028ee648c93bf36900d54d2c2702835fc4675143592",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "radial"
+      ]
+    },
+    {
+      "path": "RSI第四版结论数据报告归档_20260916/04_分项数据/D1_统计区间/baseline_bootstrap.csv",
+      "bytes": 15963,
+      "sha256": "5d0b4990f34bb950ba2fbb63310af79385020fadbd0d383d861345623c53aedd",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "radial"
+      ]
+    },
+    {
+      "path": "RSI第四版结论数据报告归档_20260916/04_分项数据/D2_D3_径向与GOF/streaming_quantile_grid_sensitivity.csv",
+      "bytes": 4516,
+      "sha256": "a016e2c69afa5fc5c4eab9328b5d0ab7e9cb2b2715c495ea3caa66cabbf927e4",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "particle_count"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/image_particles.csv",
+      "bytes": 2477925,
+      "sha256": "1e95cb9bb68dddc8d851aee9b785be55a6fa8eefec41c34b381f393f1c3c666b",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/mesh_statistics.csv",
+      "bytes": 430,
+      "sha256": "1596677035273a586faa4cd94d58d504f570b0f8788b659fa16b9dc7fb9eb638",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/run_summary.txt",
+      "bytes": 408,
+      "sha256": "463d3847840d65ca711f003a719526e8aedc22eeed29f08a588b6dbfb4e43155",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/settings_after.txt",
+      "bytes": 692,
+      "sha256": "a8b4544fbfc4adf5dfbcac3606a01059507858ad8b4c2f863a690b8b465751d7",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/settings_before.txt",
+      "bytes": 692,
+      "sha256": "89178d9e75df38b911dd7e89eafe296e317a30a5e449381f6f2457a45304db91",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/settings_verified.txt",
+      "bytes": 426,
+      "sha256": "15b2abdfa0edf1069214719e7ec17484409a9fedbe8f9040d5a91d776fdccb89",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M1_hmax_2p56um/solver.log",
+      "bytes": 2156,
+      "sha256": "6ebaa93b5bc9ca90682bd8ac51326d05ab5df819ebe8accc3a1a3d2d39cd28c1",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/image_particles.csv",
+      "bytes": 2477963,
+      "sha256": "a52d6767dbb2655ae30dacc4d795c487e85849288a5018b69fcfb765982a2b83",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/mesh_statistics.csv",
+      "bytes": 432,
+      "sha256": "e07dc8c23233f635ffc5785955cd2f3a520cf42bd961e6ee4a50936513581ee4",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/run_summary.txt",
+      "bytes": 409,
+      "sha256": "d7befb9a0afd0a9efb66962d864a487d2e026c740d9a9a953069806ada4a7633",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/settings_after.txt",
+      "bytes": 692,
+      "sha256": "cfb0ffb3796851a65c5b9638450d666ffdaccfa877101fe6e4936cb4e0f4ebb3",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/settings_before.txt",
+      "bytes": 692,
+      "sha256": "897c482e75ee95cb379da23080fd5254d88452026476277bffc7e1f157a20e25",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/settings_verified.txt",
+      "bytes": 426,
+      "sha256": "15b2abdfa0edf1069214719e7ec17484409a9fedbe8f9040d5a91d776fdccb89",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M2_hmax_1p28um/solver.log",
+      "bytes": 175,
+      "sha256": "0b97e379b3c1eaff05a7f7f3ac272f6f50c7f9ed992705067e96eb00c838e26d",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/image_particles.csv",
+      "bytes": 2477753,
+      "sha256": "1d1494262ceadbe22eeb414223f609536589262585fa619308bfc5a0f24fed63",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/mesh_statistics.csv",
+      "bytes": 434,
+      "sha256": "93a97f04ca01217fc3efd8ad8063f9cf7784f868c1eceb83d94a54f88f541ae7",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/run_summary.txt",
+      "bytes": 408,
+      "sha256": "88c9834b2c7954a56f0eed37c3c34f35ee8aef0e0563f0d4649537441f2285c3",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/settings_after.txt",
+      "bytes": 692,
+      "sha256": "830d77521065b536e877e61fd0567b6630c03b0b4a3c217e8d61832f5b4f622b",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/settings_before.txt",
+      "bytes": 692,
+      "sha256": "30636482e029427d4460f0db1c1783f17ccb08f34f85767698c73e7a232cac18",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/settings_verified.txt",
+      "bytes": 426,
+      "sha256": "15b2abdfa0edf1069214719e7ec17484409a9fedbe8f9040d5a91d776fdccb89",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M3_hmax_0p64um/solver.log",
+      "bytes": 175,
+      "sha256": "c6d0fe24a1ed20edd72023c88eb70afa4beabf7ae0de787269ccec1f08518365",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/image_particles.csv",
+      "bytes": 2477817,
+      "sha256": "b766dae8b230c614a1d61e4e03f8de1ccac096fd561e21bf572dcd60b6cb732c",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "mesh",
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/mesh_statistics.csv",
+      "bytes": 437,
+      "sha256": "8182ea83aaf8596e320a47081b733642c4c40c1e26695d385e45bf83248c343a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/run_summary.txt",
+      "bytes": 410,
+      "sha256": "ed039e1dc2fcdcedc4cd6f5cc59addf77ed4facb0b7aef2604063f286b84e778",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/settings_after.txt",
+      "bytes": 692,
+      "sha256": "8f46640bb7605eff311bf83386b9eac9312977c2cac1b3f60284bef7c0ba0537",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/settings_before.txt",
+      "bytes": 692,
+      "sha256": "2a9d7b39b5a55b847082cac70c1d1ffa95ce76e792157cd6b1951fb64e49d053",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/settings_verified.txt",
+      "bytes": 426,
+      "sha256": "15b2abdfa0edf1069214719e7ec17484409a9fedbe8f9040d5a91d776fdccb89",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M4_hmax_0p32um/solver.log",
+      "bytes": 177,
+      "sha256": "a26ce3c6886f8ab4dbe6b4faf3591303d083b0b41afe4ddcf8d1413bd6213d28",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/image_particles.csv",
+      "bytes": 2477743,
+      "sha256": "67ace5e20bd73a178e674379af9892304f0c954f2837bbc5b52d47a6b0c3996f",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/mesh_statistics.csv",
+      "bytes": 271,
+      "sha256": "21a59162c9731a0e96fad413ff475913751228c503544f18c17e8416e7163645",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/run_summary.txt",
+      "bytes": 411,
+      "sha256": "49a149a9421aee3d5ef783bb5e1bc733953eb945587d7ba3c45bcf29a32cc6fb",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/settings_after.txt",
+      "bytes": 692,
+      "sha256": "2659c20c2cf35fb1b5242f31bdfa65c23e5ca8dd4eca28350bd5c7a481fdc290",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/settings_before.txt",
+      "bytes": 692,
+      "sha256": "ede6180b72963efcc4764c8e9d3e2174bf731e78350a2ce9baa9c3a9c13f9602",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/settings_verified.txt",
+      "bytes": 426,
+      "sha256": "15b2abdfa0edf1069214719e7ec17484409a9fedbe8f9040d5a91d776fdccb89",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI网格敏感性成果归档_20261001/02_原始粒子数据/M5_hmax_0p14um/solver.log",
+      "bytes": 1830,
+      "sha256": "6277144df747d9eaa113eca1b936ce8dab7f620aa43a1f4814b5b41caee6ef13",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "mesh"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/image_particles.csv",
+      "bytes": 2477754,
+      "sha256": "362f612c7f7bbb74be8bff9b007c6f1b62efe9fec353b16d9910f7ecbac82c0a",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/run_summary.txt",
+      "bytes": 177,
+      "sha256": "97f985eb2ff4361a47c117614d2407d2258188fcf24560637a2c54a7dd1fa3f2",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/settings_after.txt",
+      "bytes": 725,
+      "sha256": "5393030eec27b35f20c9995da6293d35d78f869d87002d6ed85be374be4fef12",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/settings_before.txt",
+      "bytes": 725,
+      "sha256": "96772d1cce0ee190602e99224724885503d4e8c1bfb41cb5137a3b9da3d6a89a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00100/solver.log",
+      "bytes": 135,
+      "sha256": "377b6d6fbcdc1d880dc1aacc35f84d80efe0a50732994a357bac337784bbc99f",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/image_particles.csv",
+      "bytes": 2477900,
+      "sha256": "94449fc7c07df7c9e713bd555a223716f6044d61f53a80985eeb7b719f4c8ac3",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/run_summary.txt",
+      "bytes": 178,
+      "sha256": "d3e62cef1ea1de63d96f04838b0c46303e2bdf14338d801e7da6d05cdcab3ec4",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/settings_after.txt",
+      "bytes": 725,
+      "sha256": "993e05df7b5ceee02b47f5f0153856310f421e9675adb1bdfeb980afc4cf6583",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/settings_before.txt",
+      "bytes": 725,
+      "sha256": "edf2b040494fec8509ab17950a7dd12d641ca7502f6997d521c3da4d326e1dca",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00200/solver.log",
+      "bytes": 77,
+      "sha256": "eecde9190dd3fe16b409c9bcf835f66d0138b26271c9f76983502e126b48a4ba",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/image_particles.csv",
+      "bytes": 2477807,
+      "sha256": "8e3d8ceb1e9666aba722c1a4b8c08c05d368fb698f745040553b09167c4e27c2",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/run_summary.txt",
+      "bytes": 177,
+      "sha256": "dc8d0e7b75f9853adc55da5abeb53a1286152e37671c5de3517c489b9bbbc265",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/settings_after.txt",
+      "bytes": 725,
+      "sha256": "df8e7a6e83ca3284b812b9835b56b6d6496931efbb61e4b92731993127f84200",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/settings_before.txt",
+      "bytes": 725,
+      "sha256": "49c39aa83b9f38316f272d45e014a06da1de8438e66fd845e37e999b31fc3115",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S00500/solver.log",
+      "bytes": 77,
+      "sha256": "0d2b6dec4c90f598e87a924898c80d3d1372549be936c2da421028bff1a761e1",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/image_particles.csv",
+      "bytes": 2477983,
+      "sha256": "2b7e8f62ab80da55c493b7f786d0698631484263a8c34c058de3d637a10cdbfa",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "e2a086bed10f6b2fb2306a903fb5ee882aedd7f4769e23b84f92b33a05e897e3",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/settings_after.txt",
+      "bytes": 725,
+      "sha256": "e1b4211ba33fca829dc539ae43d69eae363ce1bcfebc5aa7383e8a86bddcd49c",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/settings_before.txt",
+      "bytes": 725,
+      "sha256": "a8a80a83d1c4afeafb8b0be6cd2e03f516d3fb2fa1070b089a52ba193b9898db",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S01000/solver.log",
+      "bytes": 77,
+      "sha256": "4016b9c45a619e4bb6003a847aba8bb327df1fa0c9a32405c4c45f6572394864",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/image_particles.csv",
+      "bytes": 2477944,
+      "sha256": "5435fb4ab7c1bcc8c6babb818c6bb88b51e0fd276d2a1f89081b0d93d3b1ff43",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "e4e66e1ab393c431ce2911103b05115896a103b2c6af2dcbce49926f7b46ddf8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/settings_after.txt",
+      "bytes": 725,
+      "sha256": "3fd5bfc0f156b4d97745c5de21d89a2dec70d75e6dd6933b17e714e352015ac5",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/settings_before.txt",
+      "bytes": 725,
+      "sha256": "ae56a6bd9b51dfc065c0333cc6af77a463240384ba09c5c26e3cc02e2783eef1",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S02000/solver.log",
+      "bytes": 77,
+      "sha256": "c4b0990332e9246fa48c0ce367bbe99aebb879659e0e17706caccb98d822d287",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/image_particles.csv",
+      "bytes": 2477886,
+      "sha256": "581c28adabc7a31edd080f00113686239b076709af1d7e33388e95fdb37d648f",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "c966c7fe448a9943e6a7305de3987db0337ae42156c5c407ad26c712450c8335",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/settings_after.txt",
+      "bytes": 741,
+      "sha256": "0eb8f4e13c73b9872f21f979f1ac7b233dad75b3145551c2eda81e9930d35cc6",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/settings_before.txt",
+      "bytes": 741,
+      "sha256": "666784d604d33bc5cb9a2f11a70189b7420c5537104914f83d04d9a8b18be59a",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S05000/solver.log",
+      "bytes": 93,
+      "sha256": "c296e8de994cfde0d9f4f3aade0d7bb0e26ff51e2d2f62b3d000645160fd2e23",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/image_particles.csv",
+      "bytes": 2477915,
+      "sha256": "f3b8190d89b7df51f9eb1ee61f05bcf65f36baf6a360740ab1ecac1d842784cf",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "07fd488c758e900a431e38e31fe90a27031791bdc624eb03bee9c7c47952ad21",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/settings_after.txt",
+      "bytes": 725,
+      "sha256": "cd37232c7e17c279a0d91f75b0fa4cd8f0605f0589141fb3ecb9b583bf73d8cc",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/settings_before.txt",
+      "bytes": 725,
+      "sha256": "ff9bba5dbd50bb9eda7d74447c63a0179c0a4338b646465fe144175cfe435cc6",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S20000/solver.log",
+      "bytes": 78,
+      "sha256": "d16f4d9c26d08234317fda72ff35162466021c7ab306f2472b926f97ff7ef370",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/image_particles.csv",
+      "bytes": 2477693,
+      "sha256": "f6d2088ad9835996d5d441297a8def5ed06429006c2593c510939058e34ab0ea",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "38fa7375d02acf11b3c001b7632d0cf23dd8d8260477bff8b909dd8ab74ff61b",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/settings_after.txt",
+      "bytes": 741,
+      "sha256": "d28c12ef5d7d623f7586263970f1a01b2d9918acadc382249b19dc39d7cfb3d0",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/settings_before.txt",
+      "bytes": 741,
+      "sha256": "7524404d37a8197047670c80eaf5be4f0800eaf20ac99a609b439719903b0fc8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S40000/solver.log",
+      "bytes": 94,
+      "sha256": "62356952c3b20b96a6ff668aed27e338041d218fb0241376ef1398947ed828c2",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/image_particles.csv",
+      "bytes": 2477610,
+      "sha256": "1f557417e51ba871cba6aa50825a669e52fd6084efe052443749816244a56514",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/initial_particles.csv",
+      "bytes": 6405928,
+      "sha256": "d3001f8c5698c6c22b320cccc3eded24852e156b69c9fd5989cbb30c5f623b72",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/run_summary.txt",
+      "bytes": 178,
+      "sha256": "97ae954c83bd0c426f2b1652f2dba8aefcdbf4505ac14e49a01d85d76d06b5c8",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/settings_after.txt",
+      "bytes": 741,
+      "sha256": "fd22857e6880f2614884696fd189c6364fb586311e742f9e29c9d576e70b7d26",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/settings_before.txt",
+      "bytes": 741,
+      "sha256": "0c87a2601d3a31cd4d8667ce15273af630037abc781794b3a460e23b0018ff98",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/01_时间步/S80000/solver.log",
+      "bytes": 94,
+      "sha256": "344d1badf6948378d9914c68b7ad906b1cc766eac49b4d2817b54c2174d2b439",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "time_step"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/02_旧矩阵回归/Case06_axis_1um_20261002/fem_image_with_pidx.csv",
+      "bytes": 2474887,
+      "sha256": "76da95889ad20d07e09f2638f78d4cc8774dff20d6daf4a4e718b53a5437fe5c",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/02_旧矩阵回归/Case06_axis_1um_20261002/initial_raw.csv",
+      "bytes": 7006865,
+      "sha256": "7af8af4ce9268e2cc1e55054d510ddfbdca0f1034d9c880ce6adb8b531b905d6",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "validation/check_handoff.m",
+      "bytes": 6945,
+      "sha256": "df2a513d13649a06c3115cad34e7dd51fb9f289dde43d37ccf82411ed9950734",
+      "roles": [
+        "portable_verification_code"
+      ],
+      "groups": [
+        "reproducibility_checks"
+      ]
+    },
+    {
+      "path": "validation/verify_payload.py",
+      "bytes": 1612,
+      "sha256": "f7b22dfd96c1aadf481b231ea9902b503fb163698a6e28758a05a3ed31e8d19f",
+      "roles": [
+        "portable_verification_code"
+      ],
+      "groups": [
+        "reproducibility_checks"
+      ]
+    }
+  ]
+}

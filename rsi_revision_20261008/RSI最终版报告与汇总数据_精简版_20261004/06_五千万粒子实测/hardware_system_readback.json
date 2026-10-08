@@ -1,0 +1,12 @@
+{
+  "host": "FE220626",
+  "CPU": "12th Gen Intel(R) Core(TM) i9-12900K",
+  "logical_processors": 24,
+  "installed_RAM_bytes": 137438953472.0,
+  "usable_RAM_bytes": 137148698624,
+  "OS": "Microsoft Windows 10 专业工作站版",
+  "OS_version": "10.0.19045",
+  "OS_build": "19045",
+  "client_date": "2026-10-04",
+  "timezone": "Asia/Shanghai"
+}

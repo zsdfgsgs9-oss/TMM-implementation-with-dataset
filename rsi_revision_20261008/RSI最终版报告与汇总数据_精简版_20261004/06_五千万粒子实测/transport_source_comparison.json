@@ -1,0 +1,6 @@
+{
+  "transport_source_identical": true,
+  "accepted_driver": "revision_simulation/run_performance_final_20261004.m",
+  "measured_driver": "benchmark_driver.m",
+  "scope": "Exact core function text comparison after normalizing CRLF"
+}

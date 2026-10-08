@@ -1,0 +1,16 @@
+case_id=M5_hmax_0p14um
+status=success
+started=2026-09-23 17:52:30
+ended=2026-09-23 20:23:01
+host=FE220626
+cpu_logical=16
+comsol_version=6.4 (readback in settings_after.txt)
+particle_count=50000
+output_steps=10000
+hmax_um=0.14
+total_elements=187595537
+mesh_seconds=2431.48832
+solve_seconds=5715.20271
+export_seconds=405.972641
+total_seconds=9031.04872
+warnings=inspect solver.log; programmatic count unavailable

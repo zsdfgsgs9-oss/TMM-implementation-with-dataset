@@ -1,0 +1,5 @@
+case_name,N,initial_max_abs_difference,FW99_recomputed_nm,pair_reconstruction_max_error_nm,H_H0_pair_reconstruction_max_error_nm,relativistic_correction,field_reference,audit_pass
+H0_control,50000,0,42.239950273433,5.10702591327572e-15,0,0,entrance,1
+H0p5,50000,0,42.2400609377211,5.10702591327572e-15,5.01443504774546e-19,0,entrance,1
+H1,50000,0,42.2401715911947,5.10702591327572e-15,5.01443504774546e-19,0,entrance,1
+H2,50000,0,42.2403929282104,5.10702591327572e-15,5.42101086242752e-19,0,entrance,1

@@ -1,0 +1,12 @@
+metric,value
+requested_hmax_um,0.14
+requested_hmin_um,0.0014
+total_elements,187595537
+tetrahedra,185260561
+min_quality,0.1702
+mean_quality,0.6632
+min_volume,1.086e-09
+max_volume,0.0005873
+max_growth_rate,5.073
+mean_growth_rate,1.821
+mesh_seconds,2431.4883214

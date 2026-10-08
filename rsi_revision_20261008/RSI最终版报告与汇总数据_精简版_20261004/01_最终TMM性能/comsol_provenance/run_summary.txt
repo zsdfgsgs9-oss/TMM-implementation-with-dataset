@@ -1,0 +1,5 @@
+status=success
+started=2026-10-02 00:46:22
+ended=2026-10-02 01:11:52
+solve_seconds=1210.97878
+particle_count=50000

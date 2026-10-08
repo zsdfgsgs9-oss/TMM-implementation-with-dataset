@@ -1,0 +1,290 @@
+{
+  "checks": {
+    "manuscript_and_supplement_tex_pdf_unchanged": "not_reverified_reference_files_not_supplied",
+    "all_11_main_figures_and_5_tables_mapped": true,
+    "seven_case_statistics_recomputed_from_50000_paired_coordinates": true,
+    "legacy_intrinsic_coordinates_match_current_signed_case01": true,
+    "table_iii_FW99_differences_nm": [
+      -0.07103810669658372,
+      -0.0008647184319414691,
+      -0.049667811076119506,
+      -0.08358570573536639,
+      1.6131111063779002,
+      1.6120618182808215,
+      -1.0283924605156258
+    ],
+    "quadratic_midpoint_H_Tpm2": [
+      0.0,
+      1.2,
+      2.4,
+      4.8
+    ],
+    "quadratic_midpoint_delta_nm": [
+      0.0,
+      0.000107894443182488,
+      0.000215795319711276,
+      0.000431604383642537
+    ],
+    "space_charge_max_image_increment_error_nm": 0.0671407119300707,
+    "space_charge_max_column_increment_error_nm": 0.429715957402465,
+    "comsol_case06_solve_seconds": 1210.97878,
+    "initializer_bin_counts_and_pdf_normalization_valid": true,
+    "performance_core_medians_and_extrema_match_five_formal_repeats": true,
+    "voltage_three_model_same_plane_FW99_recomputed": true,
+    "stripe_centroids_global_widths_and_paired_ids_valid": true,
+    "maximum_streaming_grid_mean_FW99_difference_nm": 2.07653708159228e-05,
+    "quadratic_all_eight_coordinate_statistics_and_settings_match": true,
+    "quadratic_shared_initial_ids_complete": true,
+    "quadratic_all_eight_source_initial_hashes_identical": true,
+    "quadratic_statistics": [
+      {
+        "field_reference": "entrance",
+        "case_name": "H0_control",
+        "N": 50000,
+        "H_Tpm2": 0,
+        "FW99_nm": 42.2375423853055,
+        "delta_FW99_nm": 0.0,
+        "paired_coordinate_RMS_nm": 0.0
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H0p5",
+        "N": 50000,
+        "H_Tpm2": 1.2,
+        "FW99_nm": 42.23765304606519,
+        "delta_FW99_nm": 0.00011066075968813038,
+        "paired_coordinate_RMS_nm": 6.676327720298717e-05
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H1",
+        "N": 50000,
+        "H_Tpm2": 2.4,
+        "FW99_nm": 42.237763678910454,
+        "delta_FW99_nm": 0.00022129360495171113,
+        "paired_coordinate_RMS_nm": 0.0001335265320306703
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H2",
+        "N": 50000,
+        "H_Tpm2": 4.8,
+        "FW99_nm": 42.2379850312495,
+        "delta_FW99_nm": 0.00044264594399834323,
+        "paired_coordinate_RMS_nm": 0.0002670529029212944
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H0_control",
+        "N": 50000,
+        "H_Tpm2": 0,
+        "FW99_nm": 37.472873002380666,
+        "delta_FW99_nm": 0.0,
+        "paired_coordinate_RMS_nm": 0.0
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H0p5",
+        "N": 50000,
+        "H_Tpm2": 1.2,
+        "FW99_nm": 37.472980896823834,
+        "delta_FW99_nm": 0.00010789444316827712,
+        "paired_coordinate_RMS_nm": 6.725052302625411e-05
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H1",
+        "N": 50000,
+        "H_Tpm2": 2.4,
+        "FW99_nm": 37.47308879770037,
+        "delta_FW99_nm": 0.00021579531970417065,
+        "paired_coordinate_RMS_nm": 0.00013450095579605495
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H2",
+        "N": 50000,
+        "H_Tpm2": 4.8,
+        "FW99_nm": 37.47330460676432,
+        "delta_FW99_nm": 0.00043160438365674736,
+        "paired_coordinate_RMS_nm": 0.0002690019905363334
+      }
+    ],
+    "seven_case_raw_COMSOL_coordinates_match_signed_files_max_error_nm": [
+      4.973799150320701e-14,
+      5.115907697472721e-13,
+      4.973799150320701e-14,
+      4.973799150320701e-14,
+      4.973799150320701e-14,
+      3.552713678800501e-15,
+      4.973799150320701e-14
+    ],
+    "voltage_REL_own_selected_plane_FW99_recomputed": true,
+    "final_seven_case_interval_records_well_formed": true,
+    "original_386_scientific_code_and_figure_files_unchanged": true,
+    "workspace_matlab_and_manuscript_files_unchanged": true,
+    "specified_nine_raw_files_recovered_and_hash_verified": true,
+    "signed_MATLAB_runtime_replays_pass": true,
+    "quadratic_H_minus_H0_1000_bootstrap_rerun": true,
+    "other_5000_bootstrap_intervals_rerun": false,
+    "eleven_main_and_one_supplementary_figures_replotted": true,
+    "reproduced_figures_pixel_checks_and_visual_review_pass": true
+  },
+  "frozen_reference_hashes": {
+    "all_revised_rsi_revision.tex": "4950e2441266449d29b62c5164585f9fbd0fa571272c9ebc4b78a7511ade70e1",
+    "supplementary_rsi_revision.tex": "daf7ddedcb05ea6e66dc553edcb6bbf88e443acac4a6323e4f536b87da57d191",
+    "all_revised_rsi_revision.pdf": "0f0928c9bb95a4dd135945246da289f610a8dc0185acb037ef9b0770308c5436",
+    "supplementary_rsi_revision.pdf": "88718f5c75acec73a45d0a44432114908f09409d12f07c8977bc0b922a6d4dfc"
+  },
+  "reference_hashes_source": "Recorded in the supplied handoff; frozen TEX/PDF files were not supplied.",
+  "run_scope": "Coordinate/statistics rechecks only; no COMSOL solves or performance reruns.",
+  "date": "2026-10-08",
+  "matlab_validation": {
+    "operator_direction_tests_pass": true,
+    "MATLAB_version": "9.13.0.2049777 (R2022b)",
+    "COMSOL_solved": false,
+    "performance_benchmarked": false,
+    "seven_case_replay_max_error_nm": [
+      4.973799150320701e-14,
+      5.115907697472721e-13,
+      4.973799150320701e-14,
+      4.973799150320701e-14,
+      4.973799150320701e-14,
+      4.973799150320701e-14,
+      4.973799150320701e-14
+    ],
+    "stripe_replay_max_error_nm": [
+      5.115907697472721e-13,
+      5.115907697472721e-13
+    ],
+    "quadratic_bootstrap_repeats": 1000,
+    "quadratic_bootstrap_seed": 20261004.0,
+    "quadratic_H_minus_H0_intervals": [
+      {
+        "field_reference": "entrance",
+        "case_name": "H0_control",
+        "ci95_low_nm": 0,
+        "ci95_high_nm": 0,
+        "max_abs_error_nm": 0
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H0p5",
+        "ci95_low_nm": 7.203378224698297e-05,
+        "ci95_high_nm": 0.00023201745408911733,
+        "max_abs_error_nm": 1.3855670083495752e-14
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H1",
+        "ci95_low_nm": 0.0001440588418779143,
+        "ci95_high_nm": 0.0004640100868739338,
+        "max_abs_error_nm": 6.928160302399622e-15
+      },
+      {
+        "field_reference": "entrance",
+        "case_name": "H2",
+        "ci95_low_nm": 0.00028808379887657054,
+        "ci95_high_nm": 0.0009257920756592596,
+        "max_abs_error_nm": 3.5545568224937263e-16
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H0_control",
+        "ci95_low_nm": 0,
+        "ci95_high_nm": 0,
+        "max_abs_error_nm": 0
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H0p5",
+        "ci95_low_nm": -0.00021193494530145074,
+        "ci95_high_nm": 0.00015716953668469812,
+        "max_abs_error_nm": 6.92775372658494e-15
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H1",
+        "ci95_low_nm": -0.00042331762249734337,
+        "ci95_high_nm": 0.00031096613004759626,
+        "max_abs_error_nm": 6.927726621530628e-15
+      },
+      {
+        "field_reference": "midpoint",
+        "case_name": "H2",
+        "ci95_low_nm": -0.0008452607102737986,
+        "ci95_high_nm": 0.000621933516404205,
+        "max_abs_error_nm": 6.928051882182373e-15
+      }
+    ],
+    "quadratic_CI_max_abs_error_nm": 1.3855670083495752e-14,
+    "other_5000_repeat_intervals_rerun": false
+  },
+  "copied_files": 397,
+  "copied_bytes": 453145425,
+  "largest_files": [
+    {
+      "path": "RSI第三版任务1-5成果归档_20260915/02_任务1-3_MATLAB算子修正与回归/table_iii_corrected_tmm_coordinates_with_pidx.csv",
+      "bytes": 22184143,
+      "sha256": "284d4d2430f46f0882802028ee648c93bf36900d54d2c2702835fc4675143592",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "radial"
+      ]
+    },
+    {
+      "path": "RSI_sign_revision_20261004/stripe_paired_coordinates.csv",
+      "bytes": 10955620,
+      "sha256": "6f83206b93b75ee99fff4bead93a2749092d7a5a9eb505edc168f530c8f6d6a9",
+      "roles": [
+        "direct"
+      ],
+      "groups": [
+        "stripes"
+      ]
+    },
+    {
+      "path": "RSI非空间电荷执行结果_20261001/02_旧矩阵回归/Case06_axis_1um_20261002/initial_raw.csv",
+      "bytes": 7006865,
+      "sha256": "7af8af4ce9268e2cc1e55054d510ddfbdca0f1034d9c880ce6adb8b531b905d6",
+      "roles": [
+        "raw"
+      ],
+      "groups": [
+        "seven_cases"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U100kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "785595df09772df6611da0ca95349ca072c2fcde4ecfb639679ddd06b651bb16",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    },
+    {
+      "path": "HV0_12p67_to_150kV_results_20261003/U150kV/REL_own_focus/initial_particles_with_pidx.csv",
+      "bytes": 7006702,
+      "sha256": "b46253f80138bb0e7e6a49092f3ba462495da692ed5f200a10a56b7d2bdfda34",
+      "roles": [
+        "input_and_settings"
+      ],
+      "groups": [
+        "voltage"
+      ]
+    }
+  ],
+  "missing_raw_files_for_other_computer": 0,
+  "limitations": [
+    "Frozen current manuscript/Supplementary TEX and PDF were not supplied; supplied reference hashes are preserved but not independently reverified.",
+    "Other 5000-resample interval sets were not regenerated; the quadratic H-minus-H0 intervals alone were regenerated with the original 1000-resample protocol.",
+    "No COMSOL solves or full performance measurements were rerun. Historical timing remains a separately labeled snapshot.",
+    "Earlier COMSOL performance per-point solver logs remain unavailable. Raw execution drivers are audit snapshots, not verified one-click solvers.",
+    "GitHub publication, license/privacy review, and remote repository synchronization are not performed in steps 1-4."
+  ]
+}

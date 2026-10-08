@@ -1,0 +1,23 @@
+{
+  "N": [
+    1000,
+    5000,
+    10000,
+    50000,
+    100000,
+    1.0E+6,
+    1.0E+7,
+    5.0E+7
+  ],
+  "warmups": 2,
+  "formal_repeats": 5,
+  "seed": 2.0261004E+7,
+  "I_beam_A": 0,
+  "ee_method": "self_consistent",
+  "ee_steps": 4000,
+  "phase": "midpoint",
+  "physics": "nonrelativistic",
+  "path_mode": "original_full_array",
+  "output_mode": "MAT v7.3 coordinates per N, replaced each repeat; final retained",
+  "resource_guard": "1.6 x largest observed stage-memory increment scaled by N plus base; <85% available RAM"
+}

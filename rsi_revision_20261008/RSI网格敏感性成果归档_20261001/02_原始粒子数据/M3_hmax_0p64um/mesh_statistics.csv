@@ -1,0 +1,16 @@
+metric,value
+requested_hmax_um,0.64
+requested_hmin_um,0.0064
+total_elements,2745494
+tetrahedra,2610606
+min_quality,0.1747
+mean_quality,0.6649
+min_volume,1.086e-09
+max_volume,0.04626
+max_growth_rate,4.574
+mean_growth_rate,1.75
+mesh_seconds,31.7584125
+actual_min_tet_edge_um,0.00148547635693017
+actual_max_tet_edge_um,0.964999791129422
+actual_min_tet_size_um,0.00258449139565379
+actual_max_tet_size_um,0.964999791129422

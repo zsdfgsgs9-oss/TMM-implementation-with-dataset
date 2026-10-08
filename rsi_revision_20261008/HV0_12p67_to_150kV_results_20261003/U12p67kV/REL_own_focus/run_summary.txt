@@ -1,0 +1,13 @@
+status=success
+U_kV=12.67
+mode=REL
+same_initial_as_shared_plane=1
+best_z_relative_um=1001.25
+best_z_absolute_um=1001.251
+FW99_nm=37.43530862488414
+bracketed_by_direct_planes=1
+N=50000
+solve_seconds=1206.38149
+total_seconds=5607.86834
+started=2026-10-02 23:18:30
+ended=2026-10-03 00:51:58

@@ -1,0 +1,10 @@
+status=success
+case=13_axis_minus_1um
+axis_offset_um=-1
+started=2026-10-02 11:29:24
+ended=2026-10-02 11:56:22
+solve_seconds=1232.86142
+export_seconds=299.41675
+save_seconds=85.4867577
+total_seconds=1617.90888
+particle_count=50000

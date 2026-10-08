@@ -1,0 +1,9 @@
+status=success
+case=H1
+H_Tpm2=2.3999999999999999
+rtol=1e-7
+field_reference=entrance
+started=2026-10-04 14:31:13
+ended=2026-10-04 14:57:00
+solve_seconds=1235.09018
+particle_count=50000

@@ -1,0 +1,14 @@
+{
+  "pass": true,
+  "N": 5.0E+7,
+  "stored_arrays": [
+    "pidx",
+    "x_m",
+    "y_m"
+  ],
+  "samples_checked": 1000,
+  "saved_sample_coordinate_difference_m": 0,
+  "first_pidx": 1,
+  "last_pidx": 5.0E+7,
+  "scope": "Full size metadata plus actual-input sample readback; no new performance repeat."
+}

@@ -2,6 +2,24 @@
 
 MATLAB implementation of the transfer matrix method (TMM) for simulating and optimizing magnetic-field-focused electron beam optical systems.
 
+## Current Revised Manuscript Snapshot
+
+The data and code for the 2026-10-08 revision of RSI26-AR-00947 are in
+[rsi_revision_20261008](rsi_revision_20261008/README.md). Start with that README
+for the figure/table provenance, units, verification steps, and limitations.
+
+The current physical implementation is
+`rsi_revision_20261008/RSI_sign_revision_20261004/runtime`. It uses the published
+nonrelativistic configuration and retained separate magnetic-gradient operators.
+The historical `final_runtime` inside the snapshot is timing evidence only,
+not the current physical implementation. Recorded performance measurements
+predate the final sign corrections and are not new signed-runtime benchmarks.
+
+The scripts, data, and performance statements at this repository's root and
+below are retained as a historical version. They are not the authoritative
+source for the revised article. No repository license is introduced or changed
+by this data update.
+
 ## Overview
 
 This code simulates electron trajectories from a photocathode to a silicon wafer target in an electron beam lithography system. The transfer matrix method models the complete electron optical system as a series of 3×3 homogeneous coordinate transfer matrices, achieving ~2000× speedup compared to COMSOL FEM particle tracing.

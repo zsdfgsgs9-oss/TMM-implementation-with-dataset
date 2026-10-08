@@ -1,0 +1,10 @@
+COMSOL version: COMSOL Multiphysics 6.4 (开发版本: 293)
+E vector: 0, 0, -1.267e7[V/m]
+B vector: 0, 0, 1.2[T]
+Relativistic correction: 0
+Release file: E:\Comsol Models\MATLAB CODE\transfer_matrix_test\mesh_sensitivity_20260923\frozen_inputs\canonical_intrinsic_particles_z_0p001um.txt
+Time list: range(0,4e-15,4e-11)
+Max internal step: 4e-15
+Relative tolerance: 1.0E-5
+Absolute tolerance: 0.001
+Image plane: 0.001000001[m]

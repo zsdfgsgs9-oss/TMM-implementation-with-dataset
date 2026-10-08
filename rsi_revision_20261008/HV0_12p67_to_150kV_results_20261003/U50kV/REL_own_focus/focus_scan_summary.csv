@@ -1,0 +1,2 @@
+U_kV,case_name,relativistic_flag,B_T,analytic_focus_estimate_um,best_focus_z_rel_um,cx_nm,cy_nm,rms_nm,FW50_nm,FW90_nm,FW99_nm,surrogate_validation_error_FW99_nm,scan_method
+50,HV-0_50kV,1,2.37631192014299,1016.41390448959,1014.01390448959,0.00211715468259267,-0.00116959232015575,12.7138972038427,25.3859647987067,34.0617557127642,36.6088635539824,-0.000502564638466652,global surrogate accepted

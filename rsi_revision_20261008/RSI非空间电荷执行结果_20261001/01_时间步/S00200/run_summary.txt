@@ -1,0 +1,8 @@
+status=success
+case=S00200
+started=2026-10-01 20:02:51
+ended=2026-10-01 20:09:55
+solve_seconds=116.691633
+export_seconds=306.837838
+total_seconds=423.802636
+particle_count=50000

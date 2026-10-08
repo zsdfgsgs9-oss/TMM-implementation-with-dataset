@@ -1,0 +1,9 @@
+status=success
+case=H2
+H_Tpm2=4.7999999999999998
+rtol=1e-7
+field_reference=midpoint
+started=2026-10-04 16:40:02
+ended=2026-10-04 17:05:41
+solve_seconds=1225.77469
+particle_count=50000
