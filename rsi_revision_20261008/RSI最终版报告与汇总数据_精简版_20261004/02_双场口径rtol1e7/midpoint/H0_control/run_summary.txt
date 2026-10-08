@@ -1,0 +1,9 @@
+status=success
+case=H0_control
+H_Tpm2=0
+rtol=1e-7
+field_reference=midpoint
+started=2026-10-04 15:23:06
+ended=2026-10-04 15:48:48
+solve_seconds=1228.13652
+particle_count=50000

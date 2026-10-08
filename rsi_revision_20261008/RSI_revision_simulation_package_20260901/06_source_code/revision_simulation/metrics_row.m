@@ -1,0 +1,9 @@
+function row = metrics_row(label, x, y)
+%METRICS_ROW Return beam metrics in convenient nanometre units.
+
+    metrics = summarize_beam_metrics(x, y);
+    row = table(string(label), numel(x), metrics.cx * 1e9, metrics.cy * 1e9, ...
+        metrics.rms_radius * 1e9, metrics.FW50 * 1e9, metrics.FW90 * 1e9, ...
+        metrics.FW99 * 1e9, 'VariableNames', {'case_name', 'N', 'cx_nm', ...
+        'cy_nm', 'rms_nm', 'FW50_nm', 'FW90_nm', 'FW99_nm'});
+end

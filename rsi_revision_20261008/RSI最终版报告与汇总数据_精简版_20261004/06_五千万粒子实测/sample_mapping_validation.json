@@ -1,0 +1,5 @@
+{
+  "samples": 1000,
+  "maximum_component_difference_nm": 0,
+  "scope": "I0 native ee scale exactly1; selected actual input replay; outside reported full_wall"
+}

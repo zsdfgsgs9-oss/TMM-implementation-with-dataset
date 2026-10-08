@@ -1,0 +1,16 @@
+case_id=M3_hmax_0p64um
+status=success
+started=2026-09-23 17:14:45
+ended=2026-09-23 17:29:44
+host=FE220626
+cpu_logical=16
+comsol_version=6.4 (readback in settings_after.txt)
+particle_count=50000
+output_steps=10000
+hmax_um=0.64
+total_elements=2745494
+mesh_seconds=31.7584125
+solve_seconds=509.411136
+export_seconds=290.614703
+total_seconds=899.24977
+warnings=inspect solver.log; programmatic count unavailable

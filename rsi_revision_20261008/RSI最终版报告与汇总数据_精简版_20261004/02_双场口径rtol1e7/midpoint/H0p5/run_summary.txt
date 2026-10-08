@@ -1,0 +1,9 @@
+status=success
+case=H0p5
+H_Tpm2=1.2
+rtol=1e-7
+field_reference=midpoint
+started=2026-10-04 15:48:48
+ended=2026-10-04 16:14:25
+solve_seconds=1222.42285
+particle_count=50000

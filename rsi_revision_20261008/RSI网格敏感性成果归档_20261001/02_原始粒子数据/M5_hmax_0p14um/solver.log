@@ -1,0 +1,35 @@
+[5/5] M5_hmax_0p14um started 2026-09-23 17:52:30
+[警告: Mesh screenshot failed: Java exception occurred:
+Exception:
+	com.comsol.util.exceptions.UnexpectedServerException: 服务器内存不足。
+java.lang.OutOfMemoryError: 内存不足。
+	(rethrown as com.comsol.util.exceptions.FlException)
+Messages:
+	服务器内存不足。
+java.lang.OutOfMemoryError: 内存不足。
+
+Stack trace:
+at java.util.Arrays.copyOf(Unknown Source)
+	at java.io.ByteArrayOutputStream.ensureCapacity(Unknown Source)
+	at java.io.ByteArrayOutputStream.write(Unknown Source)
+	at java.io.DataOutputStream.writeDouble(Unknown Source)
+	at com.comsol.util.datatransfer.PrimitiveBinarySerializer.a(SourceFile:436)
+	at com.comsol.util.datatransfer.PrimitiveBinarySerializer.a(SourceFile:458)
+	at com.comsol.util.datatransfer.PrimitiveBinarySerializer.b(SourceFile:165)
+	at com.comsol.model.data.DefaultSerializer.toBinary(SourceFile:254)
+	at com.comsol.model.data.Primitives.toBinary(SourceFile:193)
+	at com.comsol.bridge.NDataFactory.createNAPIReturnValue(SourceFile:3079)
+	at com.comsol.bridge.command.b.a(SourceFile:179)
+	at com.comsol.bridge.command.b.run(SourceFile:103)
+	at com.comsol.bridge.command.k.c(SourceFile:227)
+	at com.comsol.bridge.command.k$1.run(SourceFile:100)
+	at com.comsol.util.thread.SuspendableTasks$1.run(SourceFile:111)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.runWith(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)] 
+[> 位置：run_mesh_sensitivity_20260923>capture_mesh (第 286 行)
+位置: run_mesh_sensitivity_20260923 (第 92 行)] 
+Mesh: 187595537 elements, 2431.5 s, min quality 0.1702.
+Solve finished in 5715.2 s.
+Case complete: 50000 particles, 9031.1 s total.

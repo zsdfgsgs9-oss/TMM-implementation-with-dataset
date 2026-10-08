@@ -1,0 +1,17 @@
+U_kV=12.67
+mode=REL
+source_model=E:\Comsol Models\MATLAB CODE\transfer_matrix_test\※磁场聚焦光电阴极模型（30纳米-毫米尺度）.mph
+source_sha256=1e0d23a8ac7ec8af5499626f9c94a323200deb0c9679ec31f9c9cad6b0477c1c
+release_file=E:\Comsol Models\MATLAB CODE\transfer_matrix_test\revision_comsol\high_voltage_full_matrix_20260910\canonical_intrinsic_particles_z_0p001um.txt
+release_sha256=28ce7bf6fe976bf7f11bdaf70965a3b383df03f4809cf8c3c8fd87c74053c434
+relativistic_correction=1
+space_charge=off
+particle_count=50000
+E=0;0;-12670000[V/m]
+B=0;0;1.2[T]
+study_tlist=range(0,4e-15,4e-11)
+solver_tlist=range(0,4e-15,4e-11)
+max_step_s=4e-15
+rtol=1e-5
+atolglobal=0.001
+selection=direct coarse 998:0.5:1004 um, 0.25 um refinement

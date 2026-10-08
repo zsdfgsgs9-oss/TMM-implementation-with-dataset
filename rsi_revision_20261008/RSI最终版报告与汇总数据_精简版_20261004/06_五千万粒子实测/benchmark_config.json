@@ -1,0 +1,16 @@
+{
+  "N": 5.0E+7,
+  "warmups": 2,
+  "formal_repeats": 5,
+  "seed": 2.0261004E+7,
+  "I_beam_A": 0,
+  "ee_method": "self_consistent",
+  "ee_steps": 4000,
+  "phase": "midpoint",
+  "physics": "nonrelativistic",
+  "path_mode": "original_full_array",
+  "memory_guard_factor": 1.15,
+  "physical_reserve_bytes": 1.7179869184E+10,
+  "watchdog": "available physical RAM <8GiB for 5 consecutive 2s samples stops this MATLAB PID only",
+  "output_mode": "MAT v7.3 pidx/x/y per repeat; final retained"
+}

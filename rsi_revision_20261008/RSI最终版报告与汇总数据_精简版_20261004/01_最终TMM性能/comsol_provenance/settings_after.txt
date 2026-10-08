@@ -1,0 +1,12 @@
+case=Case06_axis_1um
+model=E:\Comsol Models\MATLAB CODE\transfer_matrix_test\※磁场聚焦光电阴极模型（30纳米-毫米尺度）.mph
+release=E:\Comsol Models\MATLAB CODE\transfer_matrix_test\revision_comsol\table_iii_nr_full_20260910\canonical_intrinsic_particles_z_0p001um.txt
+version=COMSOL Multiphysics 6.4 (开发版本: 293)
+host=FE220626
+E=0;0;-1.267e7[V/m]
+B=-3[T/m]*(x-1[um]);-3[T/m]*y;1.2[T]+6[T/m]*(z-0.001[um]-0.5[mm])
+relativistic_correction=0
+max_step_s=4e-15
+tlist=range(0,4e-15,4e-11)
+rtol=1.0E-5
+image_z=0.001000001[m]

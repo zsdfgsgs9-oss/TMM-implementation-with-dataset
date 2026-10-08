@@ -1,0 +1,21 @@
+Revision task 4/5 COMSOL case
+Created: 2026-09-10 19:00:35
+Case: HV-0_30kV
+Model: E:\Comsol Models\MATLAB CODE\transfer_matrix_test\※磁场聚焦光电阴极模型（30纳米-毫米尺度）.mph
+Release file: E:\Comsol Models\MATLAB CODE\transfer_matrix_test\revision_comsol\high_voltage_30kV_pilot_20260910\canonical_intrinsic_particles_z_0p001um.txt
+U_kV: 30
+B_T: 1.842348396366656
+RelativisticCorrection: 1
+E: [0, 0, -3.0e7[V/m]]
+B: [0, 0, 1.842348396366656[T]]
+Release z absolute [um]: 0.001
+Design z relative [um]: 1000
+Domain top z [um]: 1100
+Maximum internal/output step [fs]: 4
+End time [s]: 3e-11
+Model load [s]: 1.2800093
+Geometry/mesh rebuild [s]: 3.0078535
+Engineering thresholds fixed before inspection:
+  abs FW99 error < 1 nm
+  relative RMS error < 1%
+  absolute centroid error < 1 nm

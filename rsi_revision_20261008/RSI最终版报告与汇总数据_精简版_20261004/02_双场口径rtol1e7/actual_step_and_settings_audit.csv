@@ -1,0 +1,9 @@
+field_reference,case_name,accepted_steps,min_step_s,max_step_s,final_time_s,rtol,solve_seconds
+entrance,H0_control,10000,4e-15,4e-15,4e-11,1e-07,1231.27305
+entrance,H0p5,10000,4e-15,4e-15,4e-11,1e-07,1226.92374
+entrance,H1,10000,4e-15,4e-15,4e-11,1e-07,1235.09018
+entrance,H2,10000,4e-15,4e-15,4e-11,1e-07,1220.86843
+midpoint,H0_control,10000,4e-15,4e-15,4e-11,1e-07,1228.13652
+midpoint,H0p5,10000,4e-15,4e-15,4e-11,1e-07,1222.42285
+midpoint,H1,10000,4e-15,4e-15,4e-11,1e-07,1223.16913
+midpoint,H2,10000,4e-15,4e-15,4e-11,1e-07,1225.77469

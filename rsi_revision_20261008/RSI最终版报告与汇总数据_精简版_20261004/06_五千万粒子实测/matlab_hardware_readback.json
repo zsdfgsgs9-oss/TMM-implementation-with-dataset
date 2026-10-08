@@ -1,0 +1,12 @@
+{
+  "MATLAB": "9.13.0.2049777 (R2022b)",
+  "release": "2022b",
+  "computer": "PCWIN64",
+  "maxNumCompThreads": 8,
+  "OMP_NUM_THREADS": "",
+  "MKL_NUM_THREADS": "",
+  "available_RAM_bytes": 1.18446043136E+11,
+  "total_RAM_bytes": 1.37148698624E+11,
+  "client_date": "2026-10-04",
+  "timezone": "Asia/Shanghai"
+}

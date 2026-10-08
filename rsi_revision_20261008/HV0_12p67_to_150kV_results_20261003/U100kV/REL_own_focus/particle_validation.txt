@@ -1,0 +1,5 @@
+Particle count: 50000
+Unique pidx 1:N: true
+Maximum transverse-position difference [um]: 3.4694469519536142e-18
+Maximum kinetic-energy difference [J]: 0
+Maximum velocity difference [m/s]: 0

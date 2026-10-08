@@ -1,0 +1,2 @@
+"sample_count","interval_nominal_s","max_working_set_bytes","max_private_memory_bytes","min_available_physical_bytes","max_stage_sampled_memory_bytes","is_instantaneous_peak","watchdog_triggered"
+"734","2","67795099648","70292287488","51859877888","70878883840","False","False"
